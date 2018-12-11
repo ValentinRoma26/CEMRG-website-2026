@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class='full'>
+  {% for page in site.pages %}
+    {% if page.category == 'project' %}
+      {{ page.title }}
+    {% endif %}
+  {% endfor %}
+</div>

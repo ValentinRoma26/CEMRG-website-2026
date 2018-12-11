@@ -1,0 +1,25 @@
+- avatar: images/@stock/member-1.jpg
+  name: Steven Niederer
+  position: 
+  socials:
+    - link: http://scholar.google.co.uk/citations?user=rtBzy78AAAAJ&hl=en
+      icon: google
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/steven-niederer(46b8e5d7-bd73-4f89-acef-9b27a2575a4b)/publications.html
+      icon: quote-right 
+  desc:
+    Steven Niederer received a Bachelor of Engineering (hons) majoring in Engineering science at the University of Auckland, New Zealand, before completing a DPhil in Computer Science on “A Coupled Electromechanics model of the Rat Left Ventricle” at the University of Oxford, United Kingdom in 2008. He received a UK Engineering and Physical Sciences Research Council (EPSRC) post-doctoral fellowship on modelling heart failure before being appointed as a lecture at King’s College London. Since joining King’s College Steven has developed a research group focused on developing and applying computational simulation and image analysis techniques to better understand cardiac physiology, pathologies and treatments. His work is characterised by working across disciplines spanning statistics, computer science, engineering, physiology and cardiology. The group is outward facing and collaborates widely with academics, clinicians and industry to develop new cardiac analytics, diagnostics and treatments. 
+- avatar: images/members/martin.jpg
+  name: Martin Bishop
+  position: 
+  socials:
+    - link: https://scholar.google.co.uk/citations?user=YKkAus4AAAAJ&hl=en
+      icon: google
+    - link: https://kclpure.kcl.ac.uk/portal/martin.bishop.html
+      icon: quote-right 
+  desc:
+    <p> Following my undergraduate degree in Physics (Oxford, 1999-2003), I studied for a PhD in Computational Biology (Oxford, 2003-2007), specialising in Computational Cardiac Modelling. My PhD project was concerned with simulating the fluorescent signals obtained from optical mapping recordings of cardiac electrophysiology. In my postdoc (2007-8), I developed fine-scaled computational cardiac models directly from high-resolution MRI data. In October 2008, I began a 4-year Sir Henry Wellcome Postdoctoral Fellowship to investigate the role of anatomical heterogeneity in the mechanisms of initiation and maintenance of arrhythmias.</p><p> In 2011, took-up an academic position at King’s College London in the Department of Biomedical Engineering, where I am now a Reader in Computational Cardiac Electrophysiology. My core focus is to understand arrhythmia and electrotherapy mechanisms in different types of structural heart disease to directly improve clinical practice via enhanced arrhythmic risk stratification, and optimising implanted device therapy and catheter ablation. My work is facilitated by the use of clinical imaging data and electrophysiology recordings for both model construction and validation, including direct interaction with medical device and mapping companies, and basic science experimentalists. My current research interests involve the integration of computational models with advanced machine learning approaches to facilitate the integration of modelling into direct clinical practice.</p>
+
+
+
+
+

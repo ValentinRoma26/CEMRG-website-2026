@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class='full'>
+  {% for page in site.pages %}
+    {% if page.category == 'software' %}
+      <a href={{ page.url }}>{{page.title}}</a>
+    {% endif %}
+  {% endfor %}
+</div>
