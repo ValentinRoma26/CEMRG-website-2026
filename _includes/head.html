@@ -11,27 +11,28 @@
   {% else %}
     {% assign baseurl = site.baseurl %}
   {% endif %}
-  
+
+  <link rel="shortcut icon" type="image/x-icon" href={{"/favicon.ico?" | prepend: baseurl}}>
   <link rel="stylesheet" href="{{ "/css/foundation.css" | prepend: baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: baseurl }}">
   <link rel="stylesheet" href="{{ "/css/fontello.css" | prepend: baseurl }}">
   <link rel="stylesheet" href="{{ "/css/font-awesome.css" | prepend: baseurl }}">
   <script src="{{ "/javascripts/libs.js" | prepend: baseurl }}" type="text/javascript"></script>
   <script>
-    // terrificjs bootstrap
-    (function($) {
-        $(document).ready(function() {
-            var $page = $('body');
-            var config = {
-              dependencyPath: {
-                plugin: 'javascripts/'
-              }
-            }
-            var application = new Tc.Application($page, config);
-            application.registerModules();
-            application.start();
-        });
-    })(Tc.$);
+   // terrificjs bootstrap
+   (function($) {
+     $(document).ready(function() {
+       var $page = $('body');
+       var config = {
+         dependencyPath: {
+           plugin: 'javascripts/'
+         }
+       }
+       var application = new Tc.Application($page, config);
+       application.registerModules();
+       application.start();
+     });
+   })(Tc.$);
   </script>
   <link href="http://fonts.googleapis.com/css?family=Raleway:400,700,300" media="screen" rel="stylesheet" type="text/css" />
   <script src="{{ "/javascripts/masonry.pkgd.js" | prepend: baseurl }}" type="text/javascript"></script>
