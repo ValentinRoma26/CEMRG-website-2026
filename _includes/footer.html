@@ -46,9 +46,14 @@
   </div>
   <div class='two spacing'></div>
 </div>
-<script src="{{ "/javascripts/jquery.countTo.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-<script src="{{ "/javascripts/jquery.appear.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-<script src="{{ "/javascripts/jquery.validate.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-<script src="{{ "/javascripts/jquery.sequence-min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-<script src="{{ "/javascripts/jquery.easing.1.3.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-<script src="{{ "/javascripts/app.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+{% if jekyll.environment == "gitlab" %}
+  {% assign baseurl = "/cemrg" %}
+{% else %}
+  {% assign baseurl = site.baseurl %}
+{% endif %}
+<script src="{{ "/javascripts/jquery.countTo.js" | prepend: baseurl }}" type="text/javascript"></script>
+<script src="{{ "/javascripts/jquery.appear.js" | prepend: baseurl }}" type="text/javascript"></script>
+<script src="{{ "/javascripts/jquery.validate.js" | prepend: baseurl }}" type="text/javascript"></script>
+<script src="{{ "/javascripts/jquery.sequence-min.js" | prepend: baseurl }}" type="text/javascript"></script>
+<script src="{{ "/javascripts/jquery.easing.1.3.js" | prepend: baseurl }}" type="text/javascript"></script>
+<script src="{{ "/javascripts/app.js" | prepend: baseurl }}" type="text/javascript"></script>

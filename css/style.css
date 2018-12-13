@@ -3825,3 +3825,7 @@ body {
     display: none;
   }
 }
+
+iframe {
+    width: 100%;
+}
