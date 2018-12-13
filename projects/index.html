@@ -21,7 +21,7 @@ layout: default
           </p>
         </td>
         <td>
-          <img src="{{page.listImage}}">
+          <img src="{{page.listImage | prepend: baseurl}}">
         </td>
       </tr>
       {% endif %}

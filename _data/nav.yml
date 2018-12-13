@@ -15,4 +15,4 @@
   section_id: software
   children:
     - name: CemrgApp
-      path: software/cemrg
+      path: software/cemrg.html
