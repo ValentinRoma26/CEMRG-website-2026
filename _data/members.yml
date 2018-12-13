@@ -142,8 +142,10 @@
   name: Stefano Longobardi
   position: 
   socials:
+    - link: https://scholar.google.co.uk/citations?user=9QMyMPoAAAAJ&hl=it
+      icon: google
     - link: https://kclpure.kcl.ac.uk/portal/en/persons/stefano-longobardi(893da066-9130-4763-ac1e-317fcda9942d).html
-      icon: quote-right 
+      icon: quote-right
   desc:
     Stefano Longobardi graduated in Mathematics at Sapienza - University of Rome, Italy. He then obtained a Master's Degree in Mathematics applied to Life Sciences from University of Trento, Italy, with final thesis project focused on a novel non-invasive technique to estimate the pressure jump inside blood vessels. Stefano is currently pursuing a PhD in Biomedical Engineering at King's College London, working on a multi-scale model of bi-ventricular rat hearts. He aims to identify drug molecular targets which are strongly linked to heart mechanics, in order to recover impaired left ventricle contractility function in pressure-overload-induced cardiac hypertrophic rat hearts. In order to do this, Stefano is employing computational models of cellular electrophysiology and calcium dynamics, sarcomere contraction and whole-organ mechanics, and lately some supervised learning techniques such as Gaussian processes and support vector machines. Along with his lifelong passion for mathematical formalism and abstract structures, Stefano has got a wide range of science-related interests including biology, quantum physics and astronomy.
 
