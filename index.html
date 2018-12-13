@@ -2,16 +2,30 @@
 layout: default
 section_id: home
 slides:
-  - bg: images/home/c25_3D.png
-    small_title:
-      klass: bottom-to-top
-      text: 
+  - bg: images/projects/arrhythmia/Vm_EPI00061.png
     title:
       klass: bottom-to-top
-      text: 
+      text: Arrhythmia
+    link_to: "projects/Arrhythmia.html"
 
+  - bg: images/projects/heart_failure/HF2.png
+    title:
+      klass: bottom-to-top
+      text: Heart Failure
+    link_to: "projects/HeartFailure.html"
+
+  - bg: images/projects/image_processing/veins.png
+    title:
+      klass: bottom-to-top
+      text: CemrgApp
+    link_to: "software/cemrg.html"
 ---
 
+{% if jekyll.environment == "gitlab" %}
+{% assign baseurl = "/cemrg" %}
+{% else %}
+{% assign baseurl = site.baseurl %}
+{% endif %}
 
 <div class='mod modDefaultSlider'>
   <div class='sequence' data-autostop='on' data-timeout='0'>
@@ -39,8 +53,8 @@ slides:
           {% assign style = '' %}
         {% endif %}
 
-        <li class='frame {{style}} {{ slide.klass }}'>
-          <div class='bg' style='background-image: url({{ slide.bg}}); background-size: cover;background-repeat: no-repeat;'></div>
+        <li class='frame {{style}} {{ slide.klass }} clickable-slide' data-href="{{ slide.link_to | prepend: '/' | prepend: baseurl}}">
+          <div class='bg' style='background-image: url({{ slide.bg}}); background-size: contain;background-repeat: no-repeat; background-color: white'></div>
           <div class='small-title {{ slide.small_title.klass }}'>
             <div class='row'>
               <div class='large-12 columns'>
@@ -99,3 +113,11 @@ slides:
 
 <div class='full no-padding' style='background: #fff'>
 </div>
+
+<script>
+ jQuery(document).ready(function($) {
+   $(".clickable-slide").click(function() {
+     window.location = $(this).data("href")
+   })
+ })
+</script>

@@ -14,5 +14,5 @@
   path: software/
   section_id: software
   children:
-    - name: CEMRG
+    - name: CemrgApp
       path: software/cemrg
