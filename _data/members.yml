@@ -71,7 +71,7 @@
   socials:
     - link: https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en
       icon: google
-    - link: https://kclpure.kcl.ac.uk%2Fportal%2Fcaroline.roney.html&usg=AOvVaw3yQCkKDAGLVS4SUIuWND4h
+    - link: https://kclpure.kcl.ac.uk/portal/caroline.roney.html
       icon: quote-right 
   desc:
     Dr Caroline Roney is a Medical Research Council Skills Development Fellow. She has a background in both mathematics and biomedical engineering, with an MMath in Mathematics from the University of Oxford, and an MRes in Biomedical Research from Imperial College London. She received her PhD degree in signal processing of cardiac arrhythmia data from the Department of Bioengineering, Imperial College London, and then worked in the computational modelling team at Liryc, Bordeaux. Caroline’s current research interests are in developing engineering techniques for investigating the mechanisms that underlie atrial fibrillation. She uses a combination of signal processing, machine learning and computational modelling techniques to develop novel methodologies for investigating atrial fibrillation mechanisms from clinical imaging data and electrical recordings. The ultimate aim of her research is to translate developed tools for analysing electrical and imaging data to clinically predict optimal patient specific ablation strategies.
