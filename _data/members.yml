@@ -29,8 +29,7 @@
     - link: https://kclpure.kcl.ac.uk/portal/angela.lee.html
       icon: quote-right 
   desc:
-    Dr Angela WC Lee received her PhD in Biomedical Engineering from the University of Auckland, New Zealand. Her main research interest is in modelling cardiac resynchronization therapy using patient-specific models of the heart. Previously, her work focused on modelling the chronic changes in the heart’s electrophysiology, mechanics and geometry due to cardiac resynchronisation therapy and the effect that these changes will have on the optimal lead location. The current focus of her work is on developing a product for image-guided optimisation of wireless endocardial pacemakers for patients undergoing cardiac resynchronization therapy. This project, in collaboration with medical imaging companies, device manufacturers, and clinicians, aims to translate image-analysis and advanced simulations tools into the clinic to assist in pre-procedural planning for wireless endocardial CRT. 
-
+    Dr Angela WC Lee received her PhD in Biomedical Engineering from the University of Auckland, New Zealand. Her main research interest is in modelling cardiac resynchronization therapy using patient-specific models of the heart. Previously, her work focused on modelling the chronic changes in the heart’s electrophysiology, mechanics and geometry due to cardiac resynchronisation therapy and the effect that these changes will have on the optimal lead location. The current focus of her work is on developing a product for image-guided optimisation of wireless endocardial pacemakers for patients undergoing cardiac resynchronization therapy. This project, in collaboration with medical imaging companies, device manufacturers, and clinicians, aims to translate image-analysis and advanced simulations tools into the clinic to assist in pre-procedural planning for wireless endocardial CRT.
 
 - avatar: images/members/AlexLewalle.JPG
   name: Alexandre Lewalle
@@ -102,6 +101,8 @@
   name : Cesare Corrado
   position: 
   socials:
+    - link: https://scholar.google.com/citations?user=wuyllC8AAAAJ&hl=en
+      icon: google
     - link: https://kclpure.kcl.ac.uk/portal/cesare.corrado.html
       icon: quote-right 
   desc:
@@ -122,6 +123,8 @@
   name: Marina Strocchi
   position: 
   socials:
+    - link: https://scholar.google.co.uk/citations?user=IeY2uzcAAAAJ&hl=en
+      icon: google
     - link: https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi(8a65760c-fd5c-4084-8749-25c5e59e7e7a).html
       icon: quote-right 
   desc:
@@ -174,6 +177,8 @@
   name: Damiano Fassina
   position: 
   socials:
+    - link: https://scholar.google.co.uk/citations?user=a73HevYAAAAJ
+      icon: google
   desc:
-    <p>I made my first steps in the academic world in Italy, where I have achieved a 3 years Bachelor Degree in Biomedical Engineering. After 2 additional years I was awarded also with a Master Degree in Bioengineering. Both titles were awarded from the University of Padova, the city where I was born. </p><p>In October 2018 I decided to move to London to start a PhD, and since then I have been a member of King's College CEMRG. My PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, in order to achieve better understanding of their electrophysiological behavior. This research work is focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches. <p>    
+    <p>Damiano Fassina made his first steps in the academic world in Italy, where he achieved a three years Bachelor Degree in Biomedical Engineering. Subsequently, he was awarded with a two years Master Degree in Bioengineering. Both titles were conferred from the University of Padova.</p><p>In October 2018 he moved to London to start a PhD, and since then he has been a member of King's College CEMRG. Damiano’s PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, for regenerative medicine application. His investigations through models at cellular and tissue level aim to achieve better understanding of stem cells derived cardiomyocytes’ electrophysiological behavior. Damiano’s research work is thus focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches. <p>
     

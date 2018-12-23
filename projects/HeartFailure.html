@@ -6,40 +6,67 @@ listImage: "/images/projects/heart_failure/HF2.png"
 description: Heart failure is a progressive and prevalent disease that affects many people around the world. Cardiac resynchronization therapy is one of the few effective treatments for drug refractory heart failure patients. However 30% of patients do not respond to this treatment.
 ---
 
-{% if jekyll.environment == "gitlab" %}
-{% assign baseurl = "/cemrg" %}
-{% else %}
-{% assign baseurl = site.baseurl %}
-{% endif %}
+{% if jekyll.environment == "gitlab" %} {% assign baseurl = "/cemrg" %} {% else
+%} {% assign baseurl = site.baseurl %} {% endif %} {% assign cesare = "Cesare
+Corrado" | url_encode %} {% assign marina_m = "Marina Riabiz" | url_encode %} {%
+assign gabriel = "Gabriel Balaban" | url_encode %} {% assign caroline_c =
+"Caroline Costa" | url_encode %} {% assign caroline_r = "Caroline Roney" |
+url_encode %} {% assign fernando = "Fernando Campos" | url_encode %}
 
-{% assign cesare = "Cesare Corrado" | url_encode %}
-{% assign marina_m = "Marina Riabiz" | url_encode %}
-{% assign gabriel = "Gabriel Balaban" | url_encode %}
-{% assign caroline_c = "Caroline Costa" | url_encode %}
-{% assign caroline_r = "Caroline Roney" | url_encode %}
-{% assign fernando = "Fernando Campos" | url_encode %}
-
-<div class='full'>
+<div class="full">
   <div class="row">
-    <div class='large-12 columns'>
-      <h2> {{page.title}}</h2>
+    <div class="large-12 columns">
+      <h2>{{page.title}}</h2>
       <p>
-        Heart failure is a progressive and prevalent disease that affects many people around the world. Cardiac resynchronization therapy is one of the few effective treatments for drug refractory heart failure patients. However 30% of patients do not respond to this treatment.
-      </p>
-      <p>
-        Patient-specific models of the heart allow us to simulate the electrical and mechanical function of the heart for the prediction of response, electrode location optimisation, time delay optimisation, biomarker identification, and for investigating mechanisms of arrhythmia. 
+        Heart failure is a progressive and prevalent disease that affects many
+        people around the world. Cardiac resynchronization therapy is one of the
+        few effective treatments for drug refractory heart failure patients.
+        However 30% of patients do not respond to this treatment.
+        Patient-specific models of the heart allow us to simulate the electrical
+        and mechanical function of the heart for the prediction of response,
+        electrode location optimisation, time delay optimisation, biomarker
+        identification, and for investigating mechanisms of arrhythmia.
       </p>
       <div class="row">
-        <img class="title-img" src={{"/images/projects/heart_failure/combined.png" | prepend: baseurl}} />
+        <img class="title-img"
+        src={{"/images/projects/heart_failure/combined.png" | prepend: baseurl}}
+        />
       </div>
-      <h3> Research Themes</h3>
-      <h4> Arrhythmia mechanisms </h4>
+      <h3>Research Themes</h3>
+      <h4>Arrhythmia mechanisms</h4>
       <p>
-        Recent clinical studies have shown that epicardial left ventricular (LV) pacing may be arrhythmogenic when pacing in proximity to a scar. However, how pacing affects local electrophysiology and lead to arrhythmia when pacing in proximity to a scar is unclear. In this project, Dr. Caroline Mendonca Costa is using patient-specific models of LV anatomy and scar morphology to simulate electrophysiology and investigate how pacing in proximity to scar affects local repolarisation characteristics to facilitate arrhythmogenesis.
+        Recent clinical studies have shown that epicardial left ventricular (LV)
+        pacing may be arrhythmogenic when pacing in proximity to a scar.
+        However, how pacing affects local electrophysiology and lead to
+        arrhythmia when pacing in proximity to a scar is unclear. In this
+        project, Dr. Caroline Mendonca Costa is using patient-specific models of
+        LV anatomy and scar morphology to simulate electrophysiology and
+        investigate how pacing in proximity to scar affects local repolarisation
+        characteristics to facilitate arrhythmogenesis.
       </p>
-      <h4> Wireless endocardial optimisation system: </h4>
+      <h4>Wireless endocardial pacing:</h4>
       <p>
-        A new emerging technology for cardiac resynchronisation therapy (CRT) is wireless endocardial pacing. Pacing from the LV could potentially allow for
+        A new emerging technology for cardiac resynchronisation therapy (CRT) is
+        wireless endocardial pacing. In contrast to standard CRT, where pacing
+        locations are constrained by accessible coronary venous locations,
+        endocardial pacing potentially allows for pacing at any location within
+        the left ventricle. However, studies have shown that while some pacing
+        locations are beneficial, other locations could be harmful, and these
+        sites are patient-specific. Dr Angela Lee’s work is currently focused on
+        the product development of a location optimisation system for wireless
+        endocardial pacing. This project is in collaboration with industry
+        (Siemens and EBR) and clinicians, with the aim to aid clinicians in the
+        pre-planning of CRT procedures.
+      </p>
+      <h4>Novel biomarkers for CRT response:</h4>
+      <p>
+        The suboptimal response to CRT indicates the need for novel and more
+        specific biomarkers for response prediction and optimization. Marina
+        Strocchi’s work focuses on building a computational framework for atrial
+        and ventricular contraction to investigate how CRT affects arterial
+        haemodynamics. This will allow to establish whether pressure changes in
+        the major arteries can be used as a surrogate of cardiac function, and
+        consequently as a new biomarker for CRT response prediction.
       </p>
     </div>
   </div>

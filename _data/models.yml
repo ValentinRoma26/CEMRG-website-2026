@@ -1,0 +1,37 @@
+- title: "A Quantitative Analysis of Cardiac Myocyte Relaxation: A Simulation Study"
+  citation: "Steven Niederer, Peter Hunter, Nicholas Smith, 2006 Biophysical Journal, 90 1697-1722 PubMed ID: 16339881"
+  description: A biophysical data driven model of length, velocity and calcium dependent tension development in rat cardiac muscle at room temperature.
+  links:
+    - url: http://www.sciencedirect.com/science/article/pii/S000634950672358X
+      text: Science Direct
+    - url: http://models.cellml.org/exposure/97fb1de5199b1a74c89281db97aecc13/niederer_hunter_smith_2006.cellml/view
+      text: cellML
+- title: "A mathematical model of the murine ventricular myocyte: a data-driven biophysically based approach applied to mice overexpressing the canine NCX isoform A Mathematical Model of the Slow Force Response to Stretch in Rat Ventricular Myocytes"
+  citation: "L. Li , S. A. Niederer , W. Idigo , Y. H. Zhang , P. Swietach , B. Casadei , N. P. Smith, 2010 American Journal of Physiology, Voume 299 no. H1045-H1063"
+  description: A mouse electrophysiology model fitted to mouse data at physiological temperatures and capable of pacing to physiological pacing rates.
+  links:
+    - url: http://ajpheart.physiology.org/content/299/4/H1045.short
+      text: American Journal of Physiology
+    - url: http://models.cellml.org/e/38
+      text: cellML
+- title: "An analysis of deformation-dependent electromechanical coupling in the mouse heart"
+  citation: "Land S, Niederer SA, Aronsen JM, Espe EK, Zhang L, Louch WE, Sjaastad I, Sejersted OM, Smith NP. J Physiol. 2012 15;590(Pt 18):4553-69. Epub 2012 May 21. PubMed ID: 22615436"
+  description: A model of contraction fitted to mouse data at physiological temperature and frequency, including length and velocity dependent tension generation.
+  links:
+    - url: http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2012.231928/abstract
+      text: Journal of Physiology
+    - url: http://models.cellml.org/e/e4
+      text: cellML
+- title: "A Spatially Detailed Model of Isometric Contraction Based on Competitive Binding of Troponin I Explains Cooperative Interactions between Tropomyosin and Crossbridges"
+  citation: "Land S, Niederer SA. PLoS Computational Biology, 2015"
+  description: A spatially detailed ODE model of contraction based on continuous flexible chain model of the thin filament. Includes explicit TnI kinetics and a biophysically detailed representation of RU-RU, RU-XB, and XB-XB cooperativity.
+  links:
+    - url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004376
+      text: PLOS
+- title: "A model of cardiac contraction based on novel measurements of tension development in human cardiomyocytes."
+  citation: "S Land, SJ Park-Holohan, NP Smith, CG Dos Remedios, JC Kentish, SA Niederer. JMCC, 2017"
+  description: A model of human cardiac contraction intended for multi-scale modelling applications. Download includes relevant experimental data, and C++ code is available on request.
+  links:
+    - url: https://www.ncbi.nlm.nih.gov/pubmed/28392437
+      text: Pubmed
+
