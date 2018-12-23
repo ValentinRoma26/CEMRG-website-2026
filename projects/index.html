@@ -2,38 +2,44 @@
 layout: default
 ---
 
-{% if jekyll.environment == "gitlab" %}
-  {% assign baseurl = "/cemrg" %}
-{% else %}
-  {% assign baseurl = site.baseurl %}
-{% endif %}
+{% if jekyll.environment == "gitlab" %} {% assign baseurl = "/cemrg" %} {% else
+%} {% assign baseurl = site.baseurl %} {% endif %}
 
-<div class='full'>
+<div class="full">
   <div class="row">
     <table class="page-list">
-      {% for page in site.pages %}
-      {% if page.category == 'project' %}
-      <tr class="clickable-row" data-href="{{ page.path | prepend: '/' | prepend: baseurl }}">
+      {% for page in site.pages %} {% if page.category == 'project' %}
+      <tr
+        class="clickable-row"
+        data-href="{{ page.path | prepend: '/' | prepend: baseurl }}"
+      >
         <td class="description">
-          <h2><a href="{{ page.path | prepend: '/' | prepend: baseurl }}"> {{ page.title }} </a></h2>
-          <p>
-            {{page.description}}
-          </p>
+          <h2>
+            <a href="{{ page.path | prepend: '/' | prepend: baseurl }}">
+              {{ page.title }}
+            </a>
+          </h2>
+          <p>{{page.description}}</p>
         </td>
-        <td>
-          <img src="{{page.listImage | prepend: baseurl}}">
-        </td>
+        <td><img src="{{page.listImage | prepend: baseurl}}" /></td>
       </tr>
-      {% endif %}
-      {% endfor %}
+      {% endif %} {% endfor %}
     </table>
+    <div class="large-12 columns">
+      <hr/>
+      <h3> Interested in joining the lab? </h3>
+      <p>
+        CEMRG is always looking for new staff and PhD students. Please contact <a href="mailto:steven.niederer@kcl.ac.uk"> steven.niederer@kcl.ac.uk </a> if interested.
+      </p>
+      <br>
+    </div>
   </div>
 </div>
 
 <script>
- /* jQuery(document).ready(function($) {
-  *   $(".clickable-row").click(function() {
-  *     window.location = $(this).data("href")
-  *   })
-  * }) */
+  /* jQuery(document).ready(function($) {
+   *   $(".clickable-row").click(function() {
+   *     window.location = $(this).data("href")
+   *   })
+   * }) */
 </script>
