@@ -29,23 +29,17 @@ layout: default
                 </div>
               </div>
             </div>
-            <div class="two spacing"></div>
           </div>
         </div>
         <div class="small-6 medium-9 large-9 columns">
-          <h4>{{member.name}}</h4>
+          <h3>{{member.name}}</h3>
+        </div>
+        <div class="small-12 medium-9 large-9 columns">
           <p>{{member.desc}}</p>
+          <div class="two spacing"></div>
         </div>
       </div>
       {% endfor %} <br />
-      <div class="large-12 columns">
-        {% include section-header.html title="Collaborators and Clinical Partners" %}
-        <div class="spacing"></div>
-        {% for collaborator in site.data.collaborators %}
-          <h3>{{collaborator.name}}</h3>
-          <p>{{collaborator.description}} (<a href="{{collaborator.link}}">link</a>)</p>
-        {% endfor %}
-      </div>
     </div>
   </div>
 </div>

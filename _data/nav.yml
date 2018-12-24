@@ -4,6 +4,9 @@
 - name: People
   path: people.html
   section_id: people
+  children:
+    - name: Collaborators
+      path: collaborators.html
 - name: Projects
   path: projects/
   section_id: projects
