@@ -12,3 +12,8 @@ buncle exec jekyll serve
 ```
 
 The site should be accessible from localhost:4000
+
+
+-----------------
+
+Binaries for CEMRG app are not kept in git due to their large size
