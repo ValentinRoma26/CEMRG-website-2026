@@ -1,0 +1,10 @@
+- avatar: images/members/GBalaban.jpeg
+  name: Gabriel Balaban
+  position: 
+  socials:
+    - link: https://scholar.google.co.uk/citations?user=hZ-onMUAAAAJ&hl=en
+      icon: google
+    - link: https://kclpure.kcl.ac.uk/portal/gabriel.balaban.html
+      icon: quote-right 
+  desc:
+    Dr. Gabriel Balaban completed his BSc in mathematics at Trent University in Canada in 2008, and worked as an IT consultant for a year and half in Germany before undertaking an MSc in mathematics at the University of Oslo in 2012. He completed his PhD in computer science on the topic of data assimilation in cardiac mechanics in 2017 in a joint collaboration between Simula Research Laboratory and Oslo University Hospital.</p><p>Dr. Balaban is currently a postdoctoral fellow at King’s College London St. Thomas Hospital site. His work incorporates techniques from computational modelling and medical image analysis to uncover the mechanisms of cardiac arrhythmias in nonischemic heart disease.</p>

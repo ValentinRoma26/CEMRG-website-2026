@@ -108,16 +108,14 @@
   desc:
     Dr Cesare Corrado obtained his  master degree in Aerospace Engineering at the Politecnico di Milano, Italy and his PhD degree in Civil and Environmental Engineering at the University of Padua, Italy. </p><p>His earlier research concerned computational models for multi-physics problems and data assimilation techniques (reverse engineering).  </p><p>His current research interests focus on the development of clinically tractable methods to build personalised computational models from clinical data (MRI, Electrograms) and on the quantification of the model uncertainty, with a particular interest in predictive performance. </p><p>His research aims in developing new tools to improve the treatment of cardiac arrhythmias.
 
-- avatar: images/members/GBalaban.jpeg
-  name: Gabriel Balaban
+- avatar: images/members/JoseA.jpg
+  name : José Alonso
   position: 
   socials:
-    - link: https://scholar.google.co.uk/citations?user=hZ-onMUAAAAJ&hl=en
+    - link: https://scholar.google.co.uk/citations?user=2_095cQAAAAJ&hl=en#
       icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/gabriel.balaban.html
-      icon: quote-right 
   desc:
-    Dr. Gabriel Balaban completed his BSc in mathematics at Trent University in Canada in 2008, and worked as an IT consultant for a year and half in Germany before undertaking an MSc in mathematics at the University of Oslo in 2012. He completed his PhD in computer science on the topic of data assimilation in cardiac mechanics in 2017 in a joint collaboration between Simula Research Laboratory and Oslo University Hospital.</p><p>Dr. Balaban is currently a postdoctoral fellow at King’s College London St. Thomas Hospital site. His work incorporates techniques from computational modelling and medical image analysis to uncover the mechanisms of cardiac arrhythmias in nonischemic heart disease.</p>
+    José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. Moving his focus "closer to the patient", José Alonso joined CEMRG early in 2019 as a Post-Doctoral Research Associate, where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images.
 
 - avatar: images/members/Marina-S.JPG
   name: Marina Strocchi
@@ -180,4 +178,4 @@
       icon: google
   desc:
     Damiano Fassina made his first steps in the academic world in Italy, where he achieved a three years Bachelor Degree in Biomedical Engineering. Subsequently, he was awarded with a two years Master Degree in Bioengineering. Both titles were conferred from the University of Padova.</p><p>In October 2018 he moved to London to start a PhD, and since then he has been a member of King's College CEMRG. Damiano’s PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, for regenerative medicine application. His investigations through models at cellular and tissue level aim to achieve better understanding of stem cells derived cardiomyocytes’ electrophysiological behavior. Damiano’s research work is thus focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches.
-    
+
