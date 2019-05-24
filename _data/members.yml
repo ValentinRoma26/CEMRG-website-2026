@@ -179,3 +179,9 @@
   desc:
     Damiano Fassina made his first steps in the academic world in Italy, where he achieved a three years Bachelor Degree in Biomedical Engineering. Subsequently, he was awarded with a two years Master Degree in Bioengineering. Both titles were conferred from the University of Padova.</p><p>In October 2018 he moved to London to start a PhD, and since then he has been a member of King's College CEMRG. Damiano’s PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, for regenerative medicine application. His investigations through models at cellular and tissue level aim to achieve better understanding of stem cells derived cardiomyocytes’ electrophysiological behavior. Damiano’s research work is thus focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches.
 
+- avatar: images/members/sofia.jpg
+  name: Sofia Monaci
+  position: 
+  socials:
+  desc:
+    Sofia Monaci graduated in Biomedical Engineering at King’s College London in 2018. She has always had a strong passion for maths and physics and the possibility of combining them with computing and programming to solve medical problems brought her to apply to the Centre for Doctoral Training in Medical Imaging at King's College London, which she started in September 2018.</p><p>She is currently in her first year of the CDT, which consists of a MRes in Medical Imaging, and she will start her PhD in September 2019. Her MRes project consists of developing different patient-specific whole-heart torso models to be able to reproduce 64-lead ECG signals during VT episodes. The following PhD will consist of using deep-learning approaches to be able to identify origins of VT from ECG signals.</p>
