@@ -21,6 +21,14 @@
  * http://docs.jquery.com/UI/Theming/API
  */
 
+
+/* CUSTOM AND FIXES */
+
+.header-icon {
+    width: 120px;
+    padding-left: 5px;
+}
+
 /* Layout helpers
 ----------------------------------*/
 
@@ -884,7 +892,7 @@ ul.shortcode-list i {
   -webkit-transition-duration: 0.2s;
   transition-duration: 0.2s;
 }
-.contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img {
+.contain-to-grid .title-area a {
   width: 100%;
   -moz-transition-property: all;
   -o-transition-property: all;
@@ -897,7 +905,11 @@ ul.shortcode-list i {
 }
 
 .f-topbar-fixed.shrink .contain-to-grid {
-  height: 60px;
+    height: 60px;
+
+    .header-icon {
+        width: 100px;
+    }
 }
 .f-topbar-fixed.shrink .top-bar {
   height: 60px;
@@ -931,7 +943,7 @@ ul.shortcode-list i {
   line-height: 60px;
 }
 .f-topbar-fixed.shrink .top-bar .title-area img, .f-topbar-fixed.shrink .top-bar .title-area li img, .f-topbar-fixed.shrink .top-bar .title-area a img {
-  width: 70%;
+  width: 70px;
 }
 
 .contain-to-grid.fullwidth .top-bar {
