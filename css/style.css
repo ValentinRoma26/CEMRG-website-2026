@@ -3659,9 +3659,6 @@ body {
   .contain-to-grid {
     height: auto;
   }
-  .contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img {
-    width: auto;
-  }
   .contain-to-grid .top-bar-section li:not(.has-form) a:not(.button) {
     height: 60px;
     line-height: 60px;
@@ -3735,9 +3732,6 @@ body {
 
   /*The logo will not change to small size when in tablets, because the shrink effect will not work */
   .f-topbar-fixed.shrink .top-bar .title-area a {
-    width: auto;
-  }
-  .f-topbar-fixed.shrink .top-bar .title-area a img {
     width: auto;
   }
 }
