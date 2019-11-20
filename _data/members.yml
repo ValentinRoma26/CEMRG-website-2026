@@ -117,6 +117,12 @@
   desc:
     José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. Moving his focus "closer to the patient", José Alonso joined CEMRG early in 2019 as a Post-Doctoral Research Associate, where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images.
 
+- avatar: images/members/Elias.JPG
+  name: Elias Karabelas
+  position: 
+  desc:
+    Elias Karabelas received his Bachelor of Science in Applied Mathematics and his Master of Science in Industrial Mathematics from Graz University of Technology, Austria. He received his PhD in 2015 from Graz University of Technology under the supervison of Prof Olaf Steinbach, Prof Ulrich Langer, and Prof Gernot Plank. During his PhD he was member of the special research group "Mathematical Optimization and Application in Medical Science" (MOBIS). After that he joined the computational cardiology lab of Prof Gernot Plank at the Medical University of Graz, Austria. Since September 2019, Elias Karabelas is a visiting Research Associate at the CMERG group. His main research interests are computational fluid dynamics on moving/non-moving domains with particular focus on hemodynamics, non-linear solid dynamics in the context of electromechanics of the human heart, and the simulation of those problems using high performance computing.
+
 - avatar: images/members/Marina-S.JPG
   name: Marina Strocchi
   position: 
