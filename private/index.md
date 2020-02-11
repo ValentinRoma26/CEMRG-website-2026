@@ -40,8 +40,10 @@ title: title
 
 ### Health and Safety
 
-- First aid kit is in the kitchen
-- Link to fire alarm (steve)?
+- **First aid kit is in the kitchen**
+- **Fire alarms:**
+  - When intermittent, prepare to leave
+  - When continuous, leave the building immediately.
 
 Everything else:
 
