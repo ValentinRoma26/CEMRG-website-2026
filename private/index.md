@@ -34,7 +34,7 @@ title: title
 ### HPC Access
 **Archer**: Create an archer account at [https://www.archer.ac.uk/safe/login.jsp](https://www.archer.ac.uk/safe/login.jsp) with the correct project number (eg. e348) and wait for the project manager to approve your account 
 
-**Tom**: Fill in form and send to IT?
+**Tom**: Fill in [this form](/private/BLANK - HPC Project Form.doc) and send to IT
 
 -------
 
