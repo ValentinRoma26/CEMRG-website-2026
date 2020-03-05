@@ -41,3 +41,17 @@
     - url: /models/HumanCtr-release.zip
       text: Matlab
 
+- title: "Personalized computational finite element models for left atrial electromechanics"
+  citation: "Fastl, Thomas E, Tobon-Gomez, Catalina King's College London, Crozier, Andrew Medical University of Graz, and McCarthy, Karen P Royal Brompton Hospital. Personalized Computational Finite Element Models for Left Atrial Electromechanics (2018)."
+  description:
+  links:
+    - url: http://doi.org/doi:10.18742/RDM01-289
+      text: KCL Library Archive
+
+- title: "A Virtual Cohort of Twenty-four Left-ventricular Models of Ischemic Cardiomyopathy Patients"
+  citation: "Mendonca Costa, Caroline, Neic, Aurel Medical University of Graz, and Kerfoot, Eric King’s College London. A Virtual Cohort of Twenty-four Left-ventricular Models of Ischemic Cardiomyopathy Patients (2020)"
+  description:
+  links:
+    - url: http://doi.org/doi:10.18742/RDM01-570
+      text: KCL Library Archive
+
