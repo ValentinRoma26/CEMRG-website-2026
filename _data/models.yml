@@ -55,3 +55,12 @@
     - url: http://doi.org/doi:10.18742/RDM01-570
       text: KCL Library Archive
 
+- title: "Constructing a Human Atrial Fibre Atlas"
+  citation: "Roney, C. (2020). Constructing a Human Atrial Fibre Atlas, Roney et al. https://doi.org/10.5281/ZENODO.3764917"
+  description:
+  links:
+    - url: https://zenodo.org/record/3764917
+      text: Zenodo
+
+
+
