@@ -202,8 +202,11 @@
     Sofia Monaci graduated in Biomedical Engineering at King’s College London in 2018. She has always had a strong passion for maths and physics and the possibility of combining them with computing and programming to solve medical problems brought her to apply to the Centre for Doctoral Training in Medical Imaging at King's College London, which she started in September 2018.</p><p>She is currently in her first year of the CDT, which consists of a MRes in Medical Imaging, and she will start her PhD in September 2019. Her MRes project consists of developing different patient-specific whole-heart torso models to be able to reproduce 64-lead ECG signals during VT episodes. The following PhD will consist of using deep-learning approaches to be able to identify origins of VT from ECG signals.</p>
 
 - avatar: images/members/zaidi_kcl.jpg
-  name: Zaidi Hassan Syed
+  name: Hassan Zaidi
   position: 
   socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/hassan-zaidi(e74a9ef2-590f-4e0e-a6da-9ff9f1c5c719).html
+      icon: quote-right 
+
   desc:
-    At King’s Hassan's project is focused on an AI-Enhanced Risk Stratification for Implanted Defibrillators in Ischemic Cardiomyopathy Patients; He is also a senior data scientist for the defence science and technology laboratory. 
+    Hassan graduated as an applied mathematician from The University of Nottingham, going on to complete an MSc in Applied Statistics with Operational Research and a PGCE in mathematics. His background has seen him work in various fields&#58; Nottinghamshire police, teaching, research, start-ups and the NHS. </p><p>Hassan’s project is based on the understanding that susceptibility to cardiac arrhythmias represents a highly complex system with intrinsic dependence on pathological structural and functional cardiac properties. Current guidelines suggest the use of a compromised LV ejection fraction (LVEF) to guide ICD implantation; however, only a third of SCD cases exhibit low LVEF. Functional biomarkers (from ECG recordings) and structural biomarkers (from MR imaging) have been independently correlated with arrhythmia risk, however, they have yet to demonstrate sufficient power to alter current clinical practice. Therefore, Hassan’s hypothesis is that a risk prediction model which combines both structural and functional features, augmented by structure-function simulation-based features, will significantly enhance risk stratification for ICD requirement.</p>
