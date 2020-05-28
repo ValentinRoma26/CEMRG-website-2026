@@ -62,5 +62,12 @@
     - url: https://zenodo.org/record/3764917
       text: Zenodo
 
-
+- title: "The Impact of Wall Thickness and Curvature on Wall Stress in Patient-Specific Electromechanical Models of the Left Atrium "
+  citation: "Augustin CM, Fastl TE, Neic A, et al. The impact of wall thickness and curvature on wall stress in patient-specific electromechanical models of the left atrium. Biomech Model Mechanobiol. 2020;19(3):1015‐1034. doi:10.1007/s10237-019-01268-5"
+  description:
+  links:
+    - url: https://pubmed.ncbi.nlm.nih.gov/31802292/
+      text: Paper
+    - url: https://zenodo.org/record/3843659#.Xszt6hNKhTY
+      text: Meshes (Zenodo)
 

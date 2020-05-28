@@ -97,6 +97,15 @@
   desc:
     Marina Riabiz received her undergraduate and master’s degree in Mathematical Engineering from Politecnico di Milano, Italy, specializing in Applied Statistics. She has recently submitted her PhD thesis "On Latent Variable Models for Bayesian Inference with Stable Distributions and Processes" in Information Engineering, at the University of Cambridge, UK, where she was supervised by Prof. Simon Godsill. She joined the CEMRG group in October 2018, and she works on uncertainty quantification for myocytes models, under the guidance of Prof. Steven Niederer.  She is developing Monte Carlo methods for Bayesian parameter inference in dynamical systems describing calcium transients and their contribution to the action potential in rat cell models. The main goal of her project is to capture the variability of and covariance between calcium handling proteins, the main challenge being the high dimensionality of the parameter space to be inferred. The project is in collaboration with Prof. Chris Oates and other researchers form the Alan Turing Institute. Marina’s broader research interests are at the intersection of probabilistic machine learning, statistics and signal processing, applied to medical data
 
+- avatar: images/members/Phillip.jpg
+  name: Philip Gemmell
+  position: 
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/philip.gemmell.html
+      icon: quote-right 
+  desc:
+    After completing his MPhysPhil in Physics & Philosophy, Dr Philip Gemmell moved on to complete his DPhil in Systems Biology at the University of Oxford, specialising in Computational Biology. His dissertation focussed on reproducing experimentally observed variation in cardiac electrophysiology using variability in cellular ion channels as the underlying cause, and the potential consequences of this variability in the cardiac response to pathological conditions. He then expanded and refined these techniques while working at Clyde Biosciences while looking to determine the mechanisms of variation between populations of stem cell derived heart cells. He subsequently joined CEMRG, where he has developed interest in whole torso computational modelling, with specific focus on the effect of scar on the electrical dynamics of the heart, and how subtle changes in the clinical observations can be used to determine properties of myocardial scar prior to imaging.
+
 - avatar: images/members/Cesare_Corrado.JPG
   name : Cesare Corrado
   position: 
@@ -191,3 +200,10 @@
   socials:
   desc:
     Sofia Monaci graduated in Biomedical Engineering at King’s College London in 2018. She has always had a strong passion for maths and physics and the possibility of combining them with computing and programming to solve medical problems brought her to apply to the Centre for Doctoral Training in Medical Imaging at King's College London, which she started in September 2018.</p><p>She is currently in her first year of the CDT, which consists of a MRes in Medical Imaging, and she will start her PhD in September 2019. Her MRes project consists of developing different patient-specific whole-heart torso models to be able to reproduce 64-lead ECG signals during VT episodes. The following PhD will consist of using deep-learning approaches to be able to identify origins of VT from ECG signals.</p>
+
+- avatar: images/members/zaidi_kcl.jpg
+  name: Zaidi Hassan Syed
+  position: 
+  socials:
+  desc:
+    At King’s Hassan's project is focused on an AI-Enhanced Risk Stratification for Implanted Defibrillators in Ischemic Cardiomyopathy Patients; He is also a senior data scientist for the defence science and technology laboratory. 
