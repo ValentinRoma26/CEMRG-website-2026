@@ -8,7 +8,7 @@ To run locally:
 - Install depts inside the repository
 ```
 bundle install
-buncle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 The site should be accessible from localhost:4000
