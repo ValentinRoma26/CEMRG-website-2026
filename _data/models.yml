@@ -71,3 +71,13 @@
     - url: https://zenodo.org/record/3843659#.Xszt6hNKhTY
       text: Meshes (Zenodo)
 
+- title: "A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations"
+  citation: "Strocchi M, Augustin CM, Gsell MAF, Karabelas E, Neic A, et al. (2020) A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations. PLOS ONE 15(6): e0235145"
+  description:
+  links:
+    - url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235145
+      text: Paper
+    - url: https://zenodo.org/record/3890034#.Xvmkgy2ZORs
+      text: Meshes (Zenodo)
+
+
