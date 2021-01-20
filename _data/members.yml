@@ -126,12 +126,6 @@
   desc:
     José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. Moving his focus "closer to the patient", José Alonso joined CEMRG early in 2019 as a Post-Doctoral Research Associate, where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images.
 
-- avatar: images/members/Elias.JPG
-  name: Elias Karabelas
-  position: 
-  desc:
-    Elias Karabelas received his Bachelor of Science in Applied Mathematics and his Master of Science in Industrial Mathematics from Graz University of Technology, Austria. He received his PhD in 2015 from Graz University of Technology under the supervison of Prof Olaf Steinbach, Prof Ulrich Langer, and Prof Gernot Plank. During his PhD he was member of the special research group "Mathematical Optimization and Application in Medical Science" (MOBIS). After that he joined the computational cardiology lab of Prof Gernot Plank at the Medical University of Graz, Austria. Since September 2019, Elias Karabelas is a visiting Research Associate at the CMERG group. His main research interests are computational fluid dynamics on moving/non-moving domains with particular focus on hemodynamics, non-linear solid dynamics in the context of electromechanics of the human heart, and the simulation of those problems using high performance computing.
-
 - avatar: images/members/Marina-S.JPG
   name: Marina Strocchi
   position: 
@@ -210,3 +204,13 @@
 
   desc:
     Hassan graduated as an applied mathematician from The University of Nottingham, going on to complete an MSc in Applied Statistics with Operational Research and a PGCE in mathematics. His background has seen him work in various fields&#58; Nottinghamshire police, teaching, research, start-ups and the NHS. </p><p>Hassan’s project is based on the understanding that susceptibility to cardiac arrhythmias represents a highly complex system with intrinsic dependence on pathological structural and functional cardiac properties. Current guidelines suggest the use of a compromised LV ejection fraction (LVEF) to guide ICD implantation; however, only a third of SCD cases exhibit low LVEF. Functional biomarkers (from ECG recordings) and structural biomarkers (from MR imaging) have been independently correlated with arrhythmia risk, however, they have yet to demonstrate sufficient power to alter current clinical practice. Therefore, Hassan’s hypothesis is that a risk prediction model which combines both structural and functional features, augmented by structure-function simulation-based features, will significantly enhance risk stratification for ICD requirement.</p>
+
+- avatar: images/members/charles_kcl.jpg
+  name: Charles Sillett
+  position: 
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/charles-sillett(83110bc1-458b-4815-a0e1-57c6bf70eb5f).html
+      icon: quote-right 
+
+  desc:
+    Charles recently graduated from the University of Oxford with an integrated Master's in Physics. For his MPhys project, he investigated the effects of Laser Wakefield Acceleration in cluster plasmas, working in the Peter Norreys group. His long-held interest in medical technology led him to join CEMRG to start his PhD in October 2020.</p><p>Charles' PhD focuses on using cardiac CT images to quantify cardiac function in the left atrium. He aims to investigate the link between left atrial mechanics and incidents of heart failure and atrial fibrillation amongst patients.</p>
