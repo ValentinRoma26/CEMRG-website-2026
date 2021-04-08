@@ -81,3 +81,23 @@
       text: Meshes (Zenodo)
 
 
+- title: "Virtual cohort of adult healthy four-chamber heart meshes from CT images"
+  citation: "Rodero, Cristobal, Strocchi, Marina, Marciniak, Maciej, Longobardi, Stefano, Whitaker, John, O'Neill, Mark D., et al. Virtual cohort of adult healthy four-chamber heart meshes from CT images. PLOS Computational Biology. Zenodo; 2021. doi:10.5281/zenodo.4590294"
+  description:
+  links:
+    - url: https://doi.org/10.5281/zenodo.4590293
+      text: Meshes (Zenodo)
+
+- title: "Virtual cohort of extreme and average four-chamber heart meshes from statistical shape model"
+  citation: "Rodero, Cristobal, Strocchi, Marina, Marciniak, Maciej, Longobardi, Stefano, Whitaker, John, O'Neill, Mark D., et al. Virtual cohort of extreme and average four-chamber heart meshes from statistical shape model. PLOS Computational Biology. Zenodo; 2021. doi:10.5281/zenodo.4593739"
+  description:
+  links:
+    - url: https://doi.org/10.5281/zenodo.4593738
+      text: Meshes (Zenodo)
+
+- title: "Virtual cohort of 1000 synthetic heart meshes from adult human healthy population"
+  citation: "Rodero, Cristobal, Strocchi, Marina, Marciniak, Maciej, Longobardi, Stefano, Whitaker, John, O'Neill, Mark D., et al. Virtual cohort of 1000 synthetic heart meshes from adult human healthy population. PLOS Computational Biology. Zenodo; 2021. doi:10.5281/zenodo.4506930"
+  description:
+  links:
+    - url: http://doi.org/10.5281/zenodo.4506930
+      text: Meshes (Zenodo)
