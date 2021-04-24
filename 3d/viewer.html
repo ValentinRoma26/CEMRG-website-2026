@@ -20,8 +20,9 @@
      import { GLTFLoader } from './jsm/loaders/GLTFLoader.js';
 
 		 import { OrbitControls } from './jsm/controls/OrbitControls.js';
+     import { CSS2DRenderer, CSS2DObject } from './jsm/renderers/CSS2DRenderer.js';
 
-		 let camera, scene, renderer;
+		 let camera, scene, renderer, labelRenderer;
 		 let cameraControls;
 		 let effectController;
 		 let ambientLight, light;
@@ -69,11 +70,18 @@
 			 renderer.outputEncoding = THREE.sRGBEncoding;
 			 container.appendChild( renderer.domElement );
 
+       // Label Renderer
+       labelRenderer = new CSS2DRenderer();
+			 labelRenderer.setSize( window.innerWidth, window.innerHeight );
+			 labelRenderer.domElement.style.position = 'absolute';
+			 labelRenderer.domElement.style.top = '0px';
+			 document.body.appendChild( labelRenderer.domElement );
+
 			 // EVENTS
 			 window.addEventListener( 'resize', onWindowResize );
 
 			 // CONTROLS
-			 cameraControls = new OrbitControls( camera, renderer.domElement );
+			 cameraControls = new OrbitControls( camera, labelRenderer.domElement );
 			 cameraControls.addEventListener( 'change', render );
 
 			 // TEXTURE MAP
@@ -129,6 +137,7 @@
 			 const canvasHeight = window.innerHeight;
 
 			 renderer.setSize( canvasWidth, canvasHeight );
+			 labelRenderer.setSize( canvasWidth, canvasHeight );
 
 			 camera.aspect = canvasWidth / canvasHeight;
 			 camera.updateProjectionMatrix();
@@ -222,7 +231,7 @@
 				 bNonBlinn = effectController.nonblinn;
 				 shading = effectController.newShading;
 
-				 createNewTeapot()
+				 recreateMesh()
        }
 
 			 // We're a bit lazy here. We could check to see if any material attributes changed and update
@@ -259,13 +268,12 @@
 			 light.position.set( effectController.lx, effectController.ly, effectController.lz );
 			 light.color.setHSL( effectController.lhue, effectController.lsaturation, effectController.llightness );
 
-
 			 renderer.render( scene, camera );
-
+       labelRenderer.render( scene, camera );
 		 }
 
 		 // Whenever the teapot changes, the scene is rebuilt from scratch (not much to it).
-		 function createNewTeapot() {
+		 function recreateMesh() {
 
        const loader = new GLTFLoader();
        loader.load( './average.glb', function ( gltf ) {
@@ -275,12 +283,31 @@
 					   shading === "smooth" ? gouraudMaterial : (
 					     shading === "glossy" ? phongMaterial : (
 					       shading === "textured" ? texturedMaterial : reflectiveMaterial ) ) ) )
-           
+         
 
-	       scene.add( mesh );
-         console.log(mesh)
-           
+         scene.add( mesh );
+
+         // add the label
+         const heartLabelDiv = document.createElement( 'div' );
+				 heartLabelDiv.className = 'label';
+				 heartLabelDiv.textContent = 'heart';
+				 heartLabelDiv.style.marginTop = '-1em';
+				 const heartLabel = new CSS2DObject( heartLabelDiv );
+         const heartLabelPos = new THREE.Vector3( mesh.position.x + 10, mesh.position.y + 100, mesh.position.z )
+				 heartLabel.position.set( heartLabelPos.x, heartLabelPos.y, heartLabelPos.z );
+				 mesh.add( heartLabel );
+
+         // now lets draw a label line between the two
+         const material = new THREE.LineBasicMaterial( { color: 0x000000 } )
+         const points = []
+         points.push( heartLabelPos )
+         points.push( new THREE.Vector3( mesh.position.x, mesh.position.y, mesh.position.z ) )
+         const geometry = new THREE.BufferGeometry().setFromPoints( points )
+         const line = new THREE.Line( geometry, material )
+         mesh.add(line)
+
          renderer.render( scene, camera );
+         labelRenderer.render( scene, camera );
          
        }, undefined, function ( error ) {
 

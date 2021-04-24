@@ -49,6 +49,13 @@ a, button, input, select {
 	z-index: 2 !important; /* TODO Solve this in HTML */
 }
 
+.label {
+    color: #FFF;
+	  font-family: sans-serif;
+		padding: 2px;
+		background: rgba( 0, 0, 0, .6 );
+}
+
 #overlay {
 	position: absolute;
 	font-size: 16px;

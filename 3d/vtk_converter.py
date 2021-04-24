@@ -21,7 +21,7 @@ def convertFile(filepath, outdir):
         print(f'There are {geomertyFilter.GetOutput().GetNumberOfPoints()} points.')
         decimate = vtk.vtkDecimatePro()
         decimate.SetInputData(geomertyFilter.GetOutput())
-        decimate.SetTargetReduction(0.9)
+        decimate.SetTargetReduction(0.8)
         decimate.PreserveTopologyOn()
         decimate.Update()
 
