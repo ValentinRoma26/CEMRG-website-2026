@@ -22,9 +22,14 @@
 		 import { OrbitControls } from './jsm/controls/OrbitControls.js';
      import { CSS2DRenderer, CSS2DObject } from './jsm/renderers/CSS2DRenderer.js';
 
-		 let camera, scene, renderer, labelRenderer;
-		 let cameraControls;
-		 let effectController;
+		 let camera, scene, renderer, labelRenderer
+		 let cameraControls
+		 let effectController
+
+     let settings
+     let annotationToggle
+     let annotationObjects = []
+     
 		 let ambientLight, light;
 
 		 let tess = - 1;	// force initialization
@@ -148,6 +153,10 @@
 
 		 function setupGui() {
 
+       settings = {
+         annotations: true
+       }
+       
 			 effectController = {
 
 				 shininess: 40.0,
@@ -208,6 +217,7 @@
 			 h.add( effectController, "llightness", 0.0, 1.0, 0.025 ).name( "lightness" ).onChange( render );
 			 h.add( effectController, "ka", 0.0, 1.0, 0.025 ).name( "ambient" ).onChange( render );
 
+       gui.add(settings, 'annotations').onChange( render )
 		 }
 
 
@@ -221,7 +231,8 @@
 					  effectController.body !== bBody ||
 					  effectController.fitLid !== bFitLid ||
 					  effectController.nonblinn !== bNonBlinn ||
-					  effectController.newShading !== shading ) {
+					  effectController.newShading !== shading ||
+            settings.annotations !== annotationToggle) {
 
 				 tess = effectController.newTess;
 				 bBottom = effectController.bottom;
@@ -230,6 +241,7 @@
 				 bFitLid = effectController.fitLid;
 				 bNonBlinn = effectController.nonblinn;
 				 shading = effectController.newShading;
+         annotationToggle = settings.annotations
 
 				 recreateMesh()
        }
@@ -287,24 +299,36 @@
 
          scene.add( mesh );
 
-         // add the label
-         const heartLabelDiv = document.createElement( 'div' );
-				 heartLabelDiv.className = 'label';
-				 heartLabelDiv.textContent = 'heart';
-				 heartLabelDiv.style.marginTop = '-1em';
-				 const heartLabel = new CSS2DObject( heartLabelDiv );
-         const heartLabelPos = new THREE.Vector3( mesh.position.x + 10, mesh.position.y + 100, mesh.position.z )
-				 heartLabel.position.set( heartLabelPos.x, heartLabelPos.y, heartLabelPos.z );
-				 mesh.add( heartLabel );
+         // clear existing annotations
+         for ( let i = 0; i < annotationObjects.length; i ++ ) {
+					 const object = annotationObjects[ i ]
+					 object.parent.remove( object )
+				 }
+				 annotationObjects.length = 0;
+         
+         if (settings.annotations) {
+           
+           // add the label
+           const heartLabelDiv = document.createElement( 'div' )
+				   heartLabelDiv.className = 'label'
+				   heartLabelDiv.textContent = 'heart'
+				   heartLabelDiv.style.marginTop = '-1em'
+				   const heartLabel = new CSS2DObject( heartLabelDiv )
+           const heartLabelPos = new THREE.Vector3( mesh.position.x + 10, mesh.position.y + 100, mesh.position.z )
+				   heartLabel.position.set( heartLabelPos.x, heartLabelPos.y, heartLabelPos.z )
+				   mesh.add( heartLabel )
+           annotationObjects.push(heartLabel)
 
-         // now lets draw a label line between the two
-         const material = new THREE.LineBasicMaterial( { color: 0x000000 } )
-         const points = []
-         points.push( heartLabelPos )
-         points.push( new THREE.Vector3( mesh.position.x, mesh.position.y, mesh.position.z ) )
-         const geometry = new THREE.BufferGeometry().setFromPoints( points )
-         const line = new THREE.Line( geometry, material )
-         mesh.add(line)
+           // now lets draw a label line between the two
+           const material = new THREE.LineBasicMaterial( { color: 0x000000 } )
+           const points = []
+           points.push( heartLabelPos )
+           points.push( new THREE.Vector3( mesh.position.x, mesh.position.y, mesh.position.z ) )
+           const geometry = new THREE.BufferGeometry().setFromPoints( points )
+           const line = new THREE.Line( geometry, material )
+           mesh.add(line)
+           annotationObjects.push(line)
+         }
 
          renderer.render( scene, camera );
          labelRenderer.render( scene, camera );
