@@ -19,3 +19,6 @@
   children:
     - name: CemrgApp
       path: software/cemrgapp.html
+    - name: OpenEP
+      path: software/openep.html
+
