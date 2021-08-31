@@ -1,0 +1,58 @@
+---
+layout: default
+category: software
+title: GPErks
+listImage: "/images/projects/GPErks_logo.png"
+description: GPErks is a Python library to benefit Gaussian Process Emulators.
+---
+
+{% if jekyll.environment == "gitlab" %} {% assign baseurl = "/cemrg" %} {% else
+%} {% assign baseurl = site.baseurl %} {% endif %}
+
+<div class="full">
+  <div class="row">
+    <div class="large-8 columns">
+      <h2>{{page.title}}</h2>      
+      <p>
+        Gaussian Process Emulators (GPEs) are fast-evaluating probabilistic surrogates commonly used to replace computationally expensive computer code outputs.
+      </p>
+      <p>
+        <a href="https://github.com/stelong/GPErks"> GPErks</a> allows to properly (from the Italian word bene) <i>fit</i> GPEs, which in turn will <i>benefit</i> the GPEs themselves, as a better training leads to a better adequacy for the resulting emulator to replace the underlying full deterministic forward model in practical applications (regression tasks).
+      </p>
+      <p>
+        GPErks is written on top of GPyTorch (a GPs library in PyTorch) and it implements an intuitive and fully customisable API to train univariate GP emulators. GPErks eases researchers' life when it comes to model analysis and uncertainty quantification, as it implements a comprehensive framework that goes from a raw training dataset provided by the user, all the way through to a full model global sensitivities characterisation.
+      </p>
+      <p>
+        GPErks main features can be summarised in the following (non-exhaustive) list:
+        <ul>
+          <li> Automatic dataset pre-processing and visualisation</li>
+          <li> Training on CPU and GPU (inherited from GPyTorch library)</li>
+          <li> Automatic/Configurable model snapshotting</li>
+          <li> Automatic/Configurable early stopping for training</li>
+          <li> Automatic loss monitoring and training statistics saving</li>
+          <li> Automatic inference (integration with third-party Torchmetrics library) and accuracy plotting</li>
+          <li> Automatic diagnostics and errors plotting</li>
+          <li> Reproducible experiments through dumping/loading config files</li>
+          <li> K-fold cross-validation accuracy and training (also in multiprocessing)</li>
+          <li> GPE-based global sensitivity analysis (integration with third-party SALib library)</li>
+          <li> Automatic sensitivities post-processing and visualisation</li>
+        </ul>
+      </p>
+    </div>
+    <div class="large-4 columns">
+      <img src="{{page.listImage}}">
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <p>
+        <a href="https://github.com/stelong/GPErks"> Python Package</a>
+      </p>
+      <p>
+        Tutorial:
+      </p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/e4kYIIrcAHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
+    </div>
+  </div>
+</div>

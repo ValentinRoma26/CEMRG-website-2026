@@ -19,6 +19,8 @@
   children:
     - name: CemrgApp
       path: software/cemrgapp.html
+    - name: GPErks
+      path: software/gperks.html
     - name: OpenEP
       path: software/openep.html
 
