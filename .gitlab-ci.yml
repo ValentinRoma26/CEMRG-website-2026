@@ -1,7 +1,7 @@
 image: ruby:2.7
 
 variables:
-  JEKYLL_ENV: gitlab
+  JEKYLL_ENV: prod
   LC_ALL: C.UTF-8
 
 before_script:
