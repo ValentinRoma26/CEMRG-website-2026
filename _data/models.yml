@@ -56,11 +56,13 @@
       text: KCL Library Archive
 
 - title: "Constructing a Human Atrial Fibre Atlas"
-  citation: "Roney, C. (2020). Constructing a Human Atrial Fibre Atlas, Roney et al. https://doi.org/10.5281/ZENODO.3764917"
+  citation: "Roney, C.H., Bendikas, R., Pashakhanloo, F. et al. Constructing a Human Atrial Fibre Atlas. Ann Biomed Eng 49, 233–250 (2021). https://doi.org/10.1007/s10439-020-02525-w"
   description:
   links:
+    - url: https://link.springer.com/article/10.1007/s10439-020-02525-w
+      text: Paper
     - url: https://zenodo.org/record/3764917
-      text: Zenodo
+      text: Meshes (Zenodo)
 
 - title: "The Impact of Wall Thickness and Curvature on Wall Stress in Patient-Specific Electromechanical Models of the Left Atrium "
   citation: "Augustin CM, Fastl TE, Neic A, et al. The impact of wall thickness and curvature on wall stress in patient-specific electromechanical models of the left atrium. Biomech Model Mechanobiol. 2020;19(3):1015‐1034. doi:10.1007/s10237-019-01268-5"
