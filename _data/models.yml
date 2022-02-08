@@ -101,3 +101,12 @@
   links:
     - url: http://doi.org/10.5281/zenodo.4506930
       text: Meshes (Zenodo)
+
+- title: "Predicting Atrial Fibrillation Recurrence by Combining Population Data and Virtual Cohorts of Patient-Specific Left Atrial Models"
+  citation: "Roney, Caroline H., Iain Sim, Jin Yu, Marianne Beach, Arihant Mehta, Jose Alonso Solis-Lemus, Irum Kotadia et al. Predicting Atrial Fibrillation Recurrence by Combining Population Data and Virtual Cohorts of Patient-Specific Left Atrial Models. Circulation: Arrhythmia and Electrophysiology (2021): CIRCEP-121."
+  description:
+  links:
+    -url: https://www.ahajournals.org/doi/abs/10.1161/CIRCEP.121.010253
+    text: Paper
+    -url: https://zenodo.org/record/5801337#.YgI-soTP1c8
+    text: Meshes (Zenodo)
