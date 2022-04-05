@@ -1,4 +1,4 @@
-- avatar: images/members/Steve.JPG
+- avatar: /images/members/Steve.JPG
   name: Steven Niederer
   position: 
   socials:
@@ -9,7 +9,7 @@
   desc:
     Professor Steven Niederer received a Bachelor of Engineering majoring in Engineering science at the University of Auckland, New Zealand, before completing a DPhil in Computer Science at the University of Oxford, United Kingdom. He received a UK Engineering and Physical Sciences Research Council (EPSRC) post-doctoral fellowship on modelling heart failure before being appointed as a lecturer at King’s College London. Since joining King’s College Steven has developed a research group focused on developing and applying computational simulation and image analysis techniques to better understand cardiac physiology, pathologies and treatments. His work is characterised by working across disciplines spanning statistics, computer science, engineering, physiology and cardiology.
 
-- avatar: images/members/martin.jpg
+- avatar: /images/members/martin.jpg
   name: Martin Bishop
   position: 
   socials:
@@ -20,7 +20,7 @@
   desc:
     Following his undergraduate degree in Physics (University of Oxford, UK), Martin Bishop studied for a PhD in Computational Biology (University of Oxford, UK), specialising in Computational Cardiac Modelling, with a PhD project concerned with simulating the fluorescent signals obtained from optical mapping recordings of cardiac electrophysiology. In his first postdoc, Martin developed fine-scaled computational cardiac models directly from high-resolution MRI data, which were used in his later 4-year Sir Henry Wellcome Postdoctoral Fellowship to investigate the role of anatomical heterogeneity in the mechanisms of initiation and maintenance of arrhythmias.</p><p>Following his Fellowship, Martin took-up an academic position at King’s College London in the Department of Biomedical Engineering, where he is now a Reader in Computational Cardiac Electrophysiology. His core focus is to understand arrhythmia and electrotherapy mechanisms in different types of structural heart disease to directly improve clinical practice via enhanced arrhythmic risk stratification, and optimising implanted device therapy and catheter ablation. Martin’s work is facilitated by the use of clinical imaging data and electrophysiology recordings for both model construction and validation, including direct interaction with medical device and mapping companies, and basic science experimentalists. His current research interests involve the integration of computational models with advanced machine learning approaches to facilitate the integration of modelling into direct clinical practice.
 
-- avatar: images/members/Angela_Lee.JPG
+- avatar: /images/members/Angela_Lee.JPG
   name: Angela Lee
   position: 
   socials:
@@ -31,7 +31,7 @@
   desc:
     Dr Angela WC Lee received her PhD in Biomedical Engineering from the University of Auckland, New Zealand. Her main research interest is in modelling cardiac resynchronization therapy using patient-specific models of the heart. Previously, her work focused on modelling the chronic changes in the heart’s electrophysiology, mechanics and geometry due to cardiac resynchronisation therapy and the effect that these changes will have on the optimal lead location. The current focus of her work is on developing a product for image-guided optimisation of wireless endocardial pacemakers for patients undergoing cardiac resynchronization therapy. This project, in collaboration with medical imaging companies, device manufacturers, and clinicians, aims to translate image-analysis and advanced simulations tools into the clinic to assist in pre-procedural planning for wireless endocardial CRT.
 
-- avatar: images/members/AlexLewalle.JPG
+- avatar: /images/members/AlexLewalle.JPG
   name: Alexandre Lewalle
   position: 
   socials:
@@ -42,7 +42,7 @@
   desc:
     Dr Alex Lewalle completed his PhD in physics at Cambridge, and subsequently refocussed his research toward the physics/biology interface. His general research interest is in the mechanisms of force generation in biological systems, from the molecular to the whole-organ scale. His earlier research, combining experimental and modelling approaches, has included measurements of the myosin motor protein that produces muscle contraction, and of red-blood-cell membrane deformation. He has also modelled the dynamics of actin filament growth, the mechanical driving force in cell motility. Since joining CEMRG, he has focused on understanding, through modelling and computational simulations, the roles played by electrophysiological activity and cardiac tissue structure in heart contraction. By comparing theoretical biophysical models with clinical data, he is presently investigating the mechanisms of chemotherapy-induced heart failure.
 
-- avatar: images/members/Fernando.jpg
+- avatar: /images/members/Fernando.jpg
   name: Fernando Campos
   position: 
   socials:
@@ -53,60 +53,7 @@
   desc:
     Fernando received his B.Sc. in Computer Science and M.Sc. in Computational Modelling degrees from the Federal University of Juiz de fora, Brazil, before completing a PhD degree in Biomedical Engineering at the Graz University of Technology, Austria in 2012. He was awarded an Science Without Borders Scholarship to carry out research on the mechanisms of spontaneous arrhythmias in post-infarction hearts at German Heart Institute Berlin, Germany. In 2017 he was appointed as a Research Associate at King's College London, where he is currently conducting research on modelling the initiation and treatment of ventricular arrhythmias in the infarcted heart.
 
-- avatar: images/members/Caroline-Costa.JPG
-  name: Caroline Costa
-  position: 
-  socials:
-    - link: https://scholar.google.com/citations?user=FIqJvNsAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/caroline.mendonca_costa.html
-      icon: quote-right 
-  desc:
-    Dr. Caroline Mendonca Costa received her undergraduate degree in Computer Science and her master’s degree on Computational Modelling from the Federal University of Juiz de Fora, Brazil. She received her Ph.D. degree in Numeric Mathematics and Computational Modelling from the University of Graz, Graz, Austria. Her current research focuses on investigating arrhythmogenesis in infarct patients undergoing cardiac ressynchronisation therapy. Previously, she has worked on cell modelling of Chagas’ disease (Fisiocomp, Brazil), with RNA transcription models of viral infection (Bioquant, Germany), and with finite element and parameterization techniques to model fibrosis (Computational Cardiology Research Group, Austria). Her broader research interests include methodological and applied aspects of computational modelling of cardiac electrophysiology and image analysis, with emphasis on building patient-specific models of the heart to investigate the role of electrophysiological and structural remodelling on ventricular arrhythmias.
-
-- avatar: images/members/caroline-r.JPG
-  name: Caroline Roney
-  position: 
-  socials:
-    - link: https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/caroline.roney.html
-      icon: quote-right 
-  desc:
-    Dr Caroline Roney is a Medical Research Council Skills Development Fellow. She has a background in both mathematics and biomedical engineering, with an MMath in Mathematics from the University of Oxford, and an MRes in Biomedical Research from Imperial College London. She received her PhD degree in signal processing of cardiac arrhythmia data from the Department of Bioengineering, Imperial College London, and then worked in the computational modelling team at Liryc, Bordeaux. Caroline’s current research interests are in developing engineering techniques for investigating the mechanisms that underlie atrial fibrillation. She uses a combination of signal processing, machine learning and computational modelling techniques to develop novel methodologies for investigating atrial fibrillation mechanisms from clinical imaging data and electrical recordings. The ultimate aim of her research is to translate developed tools for analysing electrical and imaging data to clinically predict optimal patient specific ablation strategies.
-
-- avatar: images/members/Orod_Razeghi.jpeg
-  name: Orod Razeghi
-  position: 
-  socials:
-    - link: https://scholar.google.co.uk/citations?user=OGvOBkwAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/orod.razeghi.html
-      icon: quote-right 
-  desc:
-    Dr Orod Razeghi received his Bachelor of Science in Computer Science with Robotics from the University of Nottingham. He holds a PhD in Information Technology from the same university. His PhD focused on developing "Human in the Loop" algorithms for understanding visual content, in particular interactive methods of object recognition for medical applications. His interests primarily lie at the intersection of computer vision, medical imaging and machine learning. Since joining the department in September 2015, he has been developing interactive image processing, computer vision, and machine learning algorithms for analysis of cardiac images. His research software has been used for preprocedural planning in clinical trials.
-
-- avatar: images/members/Marina-Riabiz.JPG
-  name: Marina Riabiz
-  position: 
-  socials:
-    - link: https://scholar.google.com/citations?user=rICorMoAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/marina.riabiz.html
-      icon: quote-right 
-  desc:
-    Marina Riabiz received her undergraduate and master’s degree in Mathematical Engineering from Politecnico di Milano, Italy, specializing in Applied Statistics. She has recently submitted her PhD thesis "On Latent Variable Models for Bayesian Inference with Stable Distributions and Processes" in Information Engineering, at the University of Cambridge, UK, where she was supervised by Prof. Simon Godsill. She joined the CEMRG group in October 2018, and she works on uncertainty quantification for myocytes models, under the guidance of Prof. Steven Niederer.  She is developing Monte Carlo methods for Bayesian parameter inference in dynamical systems describing calcium transients and their contribution to the action potential in rat cell models. The main goal of her project is to capture the variability of and covariance between calcium handling proteins, the main challenge being the high dimensionality of the parameter space to be inferred. The project is in collaboration with Prof. Chris Oates and other researchers form the Alan Turing Institute. Marina’s broader research interests are at the intersection of probabilistic machine learning, statistics and signal processing, applied to medical data
-
-- avatar: images/members/Phillip.jpg
-  name: Philip Gemmell
-  position: 
-  socials:
-    - link: https://kclpure.kcl.ac.uk/portal/philip.gemmell.html
-      icon: quote-right 
-  desc:
-    After completing his MPhysPhil in Physics & Philosophy, Dr Philip Gemmell moved on to complete his DPhil in Systems Biology at the University of Oxford, specialising in Computational Biology. His dissertation focussed on reproducing experimentally observed variation in cardiac electrophysiology using variability in cellular ion channels as the underlying cause, and the potential consequences of this variability in the cardiac response to pathological conditions. He then expanded and refined these techniques while working at Clyde Biosciences while looking to determine the mechanisms of variation between populations of stem cell derived heart cells. He subsequently joined CEMRG, where he has developed interest in whole torso computational modelling, with specific focus on the effect of scar on the electrical dynamics of the heart, and how subtle changes in the clinical observations can be used to determine properties of myocardial scar prior to imaging.
-
-- avatar: images/members/Cesare_Corrado.JPG
+- avatar: /images/members/Cesare_Corrado.JPG
   name : Cesare Corrado
   position: 
   socials:
@@ -117,7 +64,7 @@
   desc:
     Dr Cesare Corrado obtained his  master degree in Aerospace Engineering at the Politecnico di Milano, Italy and his PhD degree in Civil and Environmental Engineering at the University of Padua, Italy. </p><p>His earlier research concerned computational models for multi-physics problems and data assimilation techniques (reverse engineering).  </p><p>His current research interests focus on the development of clinically tractable methods to build personalised computational models from clinical data (MRI, Electrograms) and on the quantification of the model uncertainty, with a particular interest in predictive performance. </p><p>His research aims in developing new tools to improve the treatment of cardiac arrhythmias.
 
-- avatar: images/members/JoseA.jpg
+- avatar: /images/members/JoseA.jpg
   name : José Alonso Solís-Lemus
   position: 
   socials:
@@ -126,7 +73,7 @@
   desc:
     José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. Moving his focus "closer to the patient", José Alonso joined CEMRG early in 2019 as a Post-Doctoral Research Associate, where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images.
 
-- avatar: images/members/Marina-S.JPG
+- avatar: /images/members/Marina-S.JPG
   name: Marina Strocchi
   position: 
   socials:
@@ -135,9 +82,20 @@
     - link: https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi(8a65760c-fd5c-4084-8749-25c5e59e7e7a).html
       icon: quote-right 
   desc:
-    Marina Strocchi received a bachelor's Degree in Mathematics at the University of Bologna, Italy, and a master degree in Applied Mathematics at the University of Trento, Italy. For her master thesis, she worked with models for the simulation of arterial blood flow. She also received a Master of Research in Imaging Science at King's College London.</p><p>Since the start of her PhD at King's College London in 2017, Marina has been working with three-dimensional models for cardiac electrical activation and mechanical contraction. The aim of her PhD is to develop a framework that simulates physiological motion of atria and ventricles together with pressure-volume atrial and ventricular dynamics. This framework will then be applied to a virtual cohort of heart failure models to investigate how pressure dynamics in the major arteries change in response to cardiac resynchronization therapy.
+    Marina Strocchi received a bachelor's Degree in Mathematics at the University of Bologna, Italy, and a master degree
+    in Applied Mathematics at the University of Trento, Italy. For her master thesis, she worked with models for the 
+    simulation of arterial blood flow. She also received a Master of Research in Imaging Science at King's College 
+    London.</p>
+    
+    <p>During her PhD at King's College London in 2017, Marina has been working with three-dimensional models for 
+    cardiac electrical activation and mechanical contraction. The aim of her PhD is to develop a framework that 
+    simulates physiological motion of atria and ventricles together with pressure-volume atrial and ventricular 
+    dynamics. This framework was then be applied to a virtual cohort of heart failure models to investigate how 
+    pressure dynamics in the major arteries change in response to cardiac resynchronization therapy. After the 
+    completion of her PhD in 2021, she continued in CEMRG for a postdoctoral position funded by the British Heart 
+    Foundation.
 
-- avatar: images/members/hamed_cemrg.jpg
+- avatar: /images/members/hamed_cemrg.jpg
   name: Hamed Keramati
   position: 
   socials:
@@ -146,7 +104,7 @@
   desc:
     Hamed Keramati received his master’s degree in Mechanical Engineering from Nanyang Technological University (NTU), Singapore, with a thesis titled “Design and development of MEMS rotary fans.” Subsequently, he worked as a Research Associate at NTU working on numerical simulation of the blood flow in the aorta. Before starting his PhD study, he worked as a Fluid Dynamics Engineer at Dyson, for which he performed numerical and experimental analyses of cyclonic separation. He later started his PhD at the National University of Singapore (NUS) and has recently submitted his PhD thesis “An Investigation of the Blood Flow and the Vessel Displacement in the Aortic Dissection”. His PhD research focused on the fluid-structure interaction simulation and Monte Carlo simulation of a reduced-order model of a dissected aorta. He has joined CEMRG in 2021, and he works on modelling the blood flow in the heart to optimise the design and calibration of the PEPT imaging for the cardiac blood flow.
 
-- avatar: images/members/cristobal_rodero.JPG
+- avatar: /images/members/cristobal_rodero.JPG
   name: Cristobal Rodero
   position: 
   socials:
@@ -155,31 +113,27 @@
     - link: https://kclpure.kcl.ac.uk/portal/en/persons/cristobal-rodero(fb7cc81b-de51-41b4-b672-af71d417ab80).html
       icon: quote-right 
   desc:
-    Cristobal Rodero received his bachelor's degree in Mathematics by the Universitat de València, Spain in 2016. Cristobal coursed a MSc of Research in Mathematics shared by Universitat de València and by Universitat Politècnica de València. At the same time, he went through another MSc in Computational Mathematics by Universitat Jaume I in Castellón. Cristobal started to specialise in applied mathematics focused on simulation in biomedicine.</p><p>Cristobal is part of the Marie Skłodowska-Curie Actions training network PIC (Personalised In-Silico Cardiology), where he is in constant collaboration with people working across the EU in academic, clinical and company-like environments. His work is on Cardiac Resynchronization Therapy (CRT), where the goal is to recover the synchrony of the ventricles pumping.</p><p>Cristobal started his PhD in 2017 in Biomedical Engineering, both in CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on modelling the effect of new types of CRT pacemakers (multipolar, endocardial…) in terms of cardiac electrophysiology and mechanics.
+    Cristobal Rodero received his bachelor's degree in Mathematics by the 
+    Universitat de València, Spain in 2016. Cristobal coursed a MSc of Research 
+    in Mathematics shared by Universitat de València and by Universitat 
+    Politècnica de València. At the same time, he went through another MSc in 
+    Computational Mathematics by Universitat Jaume I in Castellón. </p>
+    
+    <p>Cristobal is part of the Marie Skłodowska-Curie Actions training 
+    network PIC (Personalised In-Silico Cardiology), where he is in constant 
+    collaboration with people working across the EU in academic, clinical and 
+    company-like environments. His work is on Cardiac Resynchronization 
+    Therapy (CRT), where the goal is to recover the synchrony of the ventricles 
+    pumping.</p>
+    
+    <p>Cristobal started his PhD in 2017 in Biomedical Engineering, both in 
+    CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on 
+    studying shape and function in the heart and how the interact with each
+    other. He also worked on calibration of models using emulators. In 
+    February 2022 he started a position at CEMRG as research assistant to
+    study cardiac remodelling in longitudinal studies.
 
-- avatar: images/members/SLongobardi.JPG
-  name: Stefano Longobardi
-  position: 
-  socials:
-    - link: https://scholar.google.co.uk/citations?user=9QMyMPoAAAAJ&hl=it
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/en/persons/stefano-longobardi(893da066-9130-4763-ac1e-317fcda9942d).html
-      icon: quote-right
-  desc:
-    Stefano Longobardi graduated in Mathematics at Sapienza - University of Rome, Italy. He then obtained a Master's Degree in Mathematics applied to Life Sciences from University of Trento, Italy, with final thesis project focused on a novel non-invasive technique to estimate the pressure jump inside blood vessels. Stefano is currently pursuing a PhD in Biomedical Engineering at King's College London, working on a multi-scale model of bi-ventricular rat hearts. He aims to identify drug molecular targets which are strongly linked to heart mechanics, in order to recover impaired left ventricle contractility function in pressure-overload-induced cardiac hypertrophic rat hearts. In order to do this, Stefano is employing computational models of cellular electrophysiology and calcium dynamics, sarcomere contraction and whole-organ mechanics, and lately some supervised learning techniques such as Gaussian processes and support vector machines. Along with his lifelong passion for mathematical formalism and abstract structures, Stefano has got a wide range of science-related interests including biology, quantum physics and astronomy.
-
-- avatar: images/members/hugh.JPG
-  name: Hugh O'Brien
-  position: 
-  socials:
-    - link: https://scholar.google.com/citations?user=W_c7bfEAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/en/persons/hugh-obrien(2d481c19-8cee-40b8-8765-f922c77660b7).html
-      icon: quote-right 
-  desc:
-    Hugh O’Brien graduated from Trinity College Dublin with a BA in Psychology and Imperial College London with an MSc in Computer Science. He also completed a MRes in Imaging Science at King's College London. In between he worked at PLOS on some of their flagship journals. Prior to starting his PhD Hugh was a software engineer at Overleaf, a collaborative science writing platform for LaTeX.</p><p>His PhD, which started in 2018,  focuses on machine learning based approaches to improve the viability of CT for invasive cardiac procedure guidance with an initial focus on infarct region localisation.
-
-- avatar: images/members/Adelisa.jpg
+- avatar: /images/members/Adelisa.jpg
   name: Adelisa Avezzù
   position: 
   socials:
@@ -188,7 +142,7 @@
   desc:
     Adelisa Avezzù graduated in Mathematics at the University of Bologna with a thesis in algebraic geometry, then gained her Master of Science in Mathematics at the University of Trento with curriculum on modelling and simulations for biomedical applications. Her thesis centred on numerical modelling of the human cardiovascular system to simulate brain haemodynamics in the event of neurovascular diseases. She joined the CEMRG group in October 2018 as a King’s College PhD student.<p>Her PhD research focuses on the impact of bile acids on foetal cardiac cells in order to investigate the mechanism which would cause foetal arrhythmia and stillbirth in intrahepatic cholestasis of pregnancy (ICP). She is currently working on the development of an electrophysiological model of the human foetal ventricular cardiomyocyte. The aim of her project will be to use this model to simulate the interaction between bile acids and the ion channels of the foetal cardiac cell.</p>
 
-- avatar: images/members/Damiano_F.JPG
+- avatar: /images/members/Damiano_F.JPG
   name: Damiano Fassina
   position: 
   socials:
@@ -197,14 +151,32 @@
   desc:
     Damiano Fassina made his first steps in the academic world in Italy, where he achieved a three years Bachelor Degree in Biomedical Engineering. Subsequently, he was awarded with a two years Master Degree in Bioengineering. Both titles were conferred from the University of Padova.</p><p>In October 2018 he moved to London to start a PhD, and since then he has been a member of King's College CEMRG. Damiano’s PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, for regenerative medicine application. His investigations through models at cellular and tissue level aim to achieve better understanding of stem cells derived cardiomyocytes’ electrophysiological behavior. Damiano’s research work is thus focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches.
 
-- avatar: images/members/sofia.jpg
+- avatar: /images/members/sofia.jpg
   name: Sofia Monaci
   position: 
   socials:
   desc:
     Sofia Monaci graduated in Biomedical Engineering at King’s College London in 2018. She has always had a strong passion for maths and physics and the possibility of combining them with computing and programming to solve medical problems brought her to apply to the Centre for Doctoral Training in Medical Imaging at King's College London, which she started in September 2018.</p><p>She is currently in her first year of the CDT, which consists of a MRes in Medical Imaging, and she will start her PhD in September 2019. Her MRes project consists of developing different patient-specific whole-heart torso models to be able to reproduce 64-lead ECG signals during VT episodes. The following PhD will consist of using deep-learning approaches to be able to identify origins of VT from ECG signals.</p>
 
-- avatar: images/members/zaidi_kcl.jpg
+- avatar: /images/members/qsphotonew.png
+  name: Shuang Qian
+  position:
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/shuang-qian(5f0d649b-2cc7-4c5a-aeb9-36209a842209).html
+      icon: quote-right
+
+  desc:
+    Dr Shuang Qian received her undergraduate degree in Electronic and Electrical engineering at the University of 
+    Birmingham, UK, before completing a PhD degree at the same university. Her PhD project is about modelling the 
+    cardiac electrodynamics in a larval zebrafish heart incorporating detailed cellular arrangements and intercellular 
+    connectivity. Since joining CEMRG in 2020, her work focused on assessing and optimising electrotherapy to improve 
+    the function of implanted devices by constructing and validating computational models, based on clinical images 
+    and electrophysiological recorded data. Her current research interest also includes integrating advanced machine 
+    learning approaches with models for direct applications in current clinical practice and making digital twins from 
+    data sets in the Biobank that evolve through time.
+
+
+- avatar: /images/members/zaidi_kcl.jpg
   name: Hassan Zaidi
   position: 
   socials:
@@ -214,7 +186,7 @@
   desc:
     Hassan graduated as an applied mathematician from The University of Nottingham, going on to complete an MSc in Applied Statistics with Operational Research and a PGCE in mathematics. His background has seen him work in various fields&#58; Nottinghamshire police, teaching, research, start-ups and the NHS. </p><p>Hassan’s project is based on the understanding that susceptibility to cardiac arrhythmias represents a highly complex system with intrinsic dependence on pathological structural and functional cardiac properties. Current guidelines suggest the use of a compromised LV ejection fraction (LVEF) to guide ICD implantation; however, only a third of SCD cases exhibit low LVEF. Functional biomarkers (from ECG recordings) and structural biomarkers (from MR imaging) have been independently correlated with arrhythmia risk, however, they have yet to demonstrate sufficient power to alter current clinical practice. Therefore, Hassan’s hypothesis is that a risk prediction model which combines both structural and functional features, augmented by structure-function simulation-based features, will significantly enhance risk stratification for ICD requirement.</p>
 
-- avatar: images/members/charles_kcl.jpg
+- avatar: /images/members/charles_kcl.jpg
   name: Charles Sillett
   position: 
   socials:
@@ -222,4 +194,12 @@
       icon: quote-right 
 
   desc:
-    Charles recently graduated from the University of Oxford with an integrated Master's in Physics. For his MPhys project, he investigated the effects of Laser Wakefield Acceleration in cluster plasmas, working in the Peter Norreys group. His long-held interest in medical technology led him to join CEMRG to start his PhD in October 2020.</p><p>Charles' PhD focuses on using cardiac CT images to quantify cardiac function in the left atrium. He aims to investigate the link between left atrial mechanics and incidents of heart failure and atrial fibrillation amongst patients.</p>
+    Charles recently graduated from the University of Oxford with an integrated Master's in Physics. 
+    For his MPhys project, he investigated the effects of Laser Wakefield Acceleration in cluster plasmas, working in 
+    the Peter Norreys group. His long-held interest in medical technology led him to join CEMRG to start his PhD in 
+    October 2020.</p>
+    <p>Charles' PhD focuses on using cardiac CT images to quantify cardiac function in the left atrium. He aims to 
+    investigate the link between left atrial mechanics and incidents of heart failure and atrial fibrillation amongst 
+    patients.</p>
+
+
