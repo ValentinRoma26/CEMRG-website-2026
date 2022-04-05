@@ -2,11 +2,13 @@
   path: index.html
   section_id: home
 - name: People
-  path: people.html
+  path: people/
   section_id: people
   children:
+    - name: The team
+      path: people/team.html
     - name: Collaborators
-      path: collaborators.html
+      path: people/collaborators.html
 - name: Projects
   path: projects/
   section_id: projects
