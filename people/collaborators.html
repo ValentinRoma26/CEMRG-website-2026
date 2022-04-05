@@ -1,0 +1,25 @@
+---
+layout: default
+category: people
+title: Collaborators
+description: Who do we work with outside of our group?
+---
+
+{% if jekyll.environment == "gitlab" %} {% assign baseurl = "/cemrg" %} {% else
+%} {% assign baseurl = site.baseurl %} {% endif %}
+
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      {% include section-header.html title="Collaborators and Clinical Partners"
+      %}
+      <div class="spacing"></div>
+      {% for collaborator in site.data.collaborators %}
+      <h3><a href="{{collaborator.link}}">{{collaborator.name}}</a></h3>
+      <p>
+        {{collaborator.description}}
+      </p>
+      {% endfor %}
+    </div>
+  </div>
+</div>

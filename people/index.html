@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% if jekyll.environment == "gitlab" %}
+  {% assign baseurl = "/cemrg" %}
+{% else %}
+  {% assign baseurl = site.baseurl %}
+{% endif %}
+
+
+<div class='full'>
+  <div class="row">
+    <table class="page-list">
+      {% assign reverse_pages = site.pages | reverse %} {% for page in reverse_pages %}
+      {% if page.category == 'people' %}
+      <tr class="clickable-row" data-href="{{ page.path | prepend: '/' | prepend: baseurl }}">
+        <td class="description">
+          <h2><a href="{{ page.path | prepend: '/' | prepend: baseurl }}"> {{ page.title }} </a></h2>
+          <p>
+            {{page.description}}
+          </p>
+        </td>
+        <td>
+          <img src="{{ page.listImage | prepend: baseurl }}">
+        </td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+    </table>
+  </div>
+  <div class='two spacing'></div>
+  <div class='two spacing'></div>
+</div>
