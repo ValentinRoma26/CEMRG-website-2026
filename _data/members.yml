@@ -156,8 +156,16 @@
   position: 
   socials:
   desc:
-    Sofia Monaci graduated in Biomedical Engineering at King’s College London in 2018. She has always had a strong passion for maths and physics and the possibility of combining them with computing and programming to solve medical problems brought her to apply to the Centre for Doctoral Training in Medical Imaging at King's College London, which she started in September 2018.</p><p>She is currently in her first year of the CDT, which consists of a MRes in Medical Imaging, and she will start her PhD in September 2019. Her MRes project consists of developing different patient-specific whole-heart torso models to be able to reproduce 64-lead ECG signals during VT episodes. The following PhD will consist of using deep-learning approaches to be able to identify origins of VT from ECG signals.</p>
+    Sofia Monaci first graduated in Biomedical Engineering at King’s College London in 2018, and she then went on to do 
+    a MRes and PhD under the supervision of Dr Martin Bishop (via the Centre for Doctoral Training in Medical 
+    Imaging Modalities).
+    She is really enthusiastic and passionate about “'mending the heart” with engineering tools! <\p>
 
+    <p>She is currently in her last year of PhD. Her research aimed at optimising ventricular tachycardia (VT) 
+    treatments by utilising electrograms recordings stored in implanted devices, that the majority of VT patients have 
+    in-situ. She first led an in-silico pace mapping to guide VT ablation planning non-invasively, and she then 
+    implemented two computational-artificial intelligence (AI) platforms to automate the localisation of focal and 
+    post-infarct VTs respectively, with a similar aim.
 - avatar: /images/members/qsphotonew.png
   name: Shuang Qian
   position:
