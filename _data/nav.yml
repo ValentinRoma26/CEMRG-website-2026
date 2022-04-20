@@ -25,3 +25,6 @@
       path: software/gperks.html
     - name: OpenEP
       path: software/openep.html
+- name: Selected publications
+  path: publications.html
+  section_id: publications

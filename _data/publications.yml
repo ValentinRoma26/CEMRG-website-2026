@@ -1,0 +1,55 @@
+- title: "Modelling the interaction between stem cells derived cardiomyocytes patches and host myocardium to aid non-arrhythmic engineered heart tissue design."
+  first_author: "Fassina, Damiano"
+  authors: "Caroline M. Costa, Stefano Longobardi, Elias Karabelas, Gernot Plank, Sian E. Harding, and Steven A. Niederer"
+  journal: "PLOS Computational Biology"
+  year: "2022"
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010030
+
+- title: "Global Sensitivity Analysis of Four Chamber Heart Hemodynamics Using Surrogate Models."
+  first_author: "Karabelas, Elias"
+  authors: "Stefano Longobardi, Jana Fuchsberger, Orod Razeghi, Cristobal Rodero, Marina Strocchi, Ronak Rajani, Gundolf Haase, Gernot Plank, and Steven NiedererStefano Longobardi, Jana Fuchsberger, Orod Razeghi, Cristobal Rodero, Marina Strocchi, Ronak Rajani, Gundolf Haase, Gernot Plank, and Steven Niederer"
+  journal: "IEEE Transactions on Biomedical Engineering"
+  year: "2022"
+  url: https://ieeexplore.ieee.org/document/9745350
+
+- title: "Radiomics and Machine Learning for Detecting Scar Tissue on CT Delayed Enhancement Imaging."
+  first_author: "O'Brien, Hugh"
+  authors: "Michelle Williams, Ronak Rajani, and Steven Niederer"
+  journal: "Frontiers in Cardiovascular Medicine"
+  year: "2022"
+  url: https://www.frontiersin.org/articles/10.3389/fcvm.2022.847825/abstract
+
+- title: "Predicting Atrial Fibrillation Recurrence by Combining Population Data and Virtual Cohorts of Patient-Specific Left Atrial Models."
+  first_author: "Roney, Caroline H."
+  authors: "Iain Sim, Jin Yu, Marianne Beach, Arihant Mehta, Jose Alonso Solis-Lemus, Irum Kotadia et al."
+  journal: "Circulation: Arrhythmia and Electrophysiology"
+  year: "2022"
+  url: https://www.ahajournals.org/doi/full/10.1161/CIRCEP.121.010253
+
+- title: "Determining anatomical and electrophysiological detail requirements for computational ventricular models of porcine myocardial infarction."
+  first_author: "Costa, Caroline Mendonca"
+  authors: "Philip Gemmell, Mark K. Elliott, John Whitaker, Fernando O. Campos, Marina Strocchi, Aurel Neic et al."
+  journal: "Computers in Biology and Medicine"
+  year: "2022"
+  url: https://www.sciencedirect.com/science/article/pii/S0010482521008556
+
+- title: "Functional and structural differences between skinned and intact muscle preparations."
+  first_author: "Lewalle, Alex"
+  authors: "Kenneth S. Campbell, Stuart G. Campbell, Gregory N. Milburn, and Steven A. Niederer"
+  journal: "Journal of General Physiology"
+  year: "2022"
+  url: https://rupress.org/jgp/article/154/2/e202112990/212968/Functional-and-structural-differences-between
+
+- title: "Impact of anatomical reverse remodelling in the design of optimal quadripolar pacing leads: A computational study."
+  first_author: "Rodero, Cristobal"
+  authors: "Marina Strocchi, Angela WC Lee, Christopher A. Rinaldi, Edward J. Vigmond, Gernot Plank, Pablo Lamata, and Steven A. Niederer"
+  journal: "Computers in biology and medicine"
+  year: "2022"
+  url: https://www.sciencedirect.com/science/article/pii/S0010482521008672
+
+- title: "Applications of multimodality imaging for left atrial catheter ablation."
+  first_author: "Roney, Caroline H."
+  authors: "Charles Sillett, John Whitaker, Jose Alonso Solis Lemus, Iain Sim, Irum Kotadia, Mark O'Neill, Steven E. Williams, and Steven A. Niederer. "
+  journal: "European Heart Journal-Cardiovascular Imaging"
+  year: "2022"
+  url: https://academic.oup.com/ehjcimaging/article/23/1/31/6423129?login=true

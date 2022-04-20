@@ -1,0 +1,19 @@
+---
+layout: default
+section_id: publications
+---
+
+<div class="full" style="background: #f5f5f5;">
+  <div class="row">
+    <div class="large-12 columns">
+      {% assign reverse_publications = site.data.publications %} {% for publication in
+      reverse_publications %}
+      <p>{{ publication.first_author }},
+      {{ publication.authors }}
+      <b>{{ publication.title }}</b>
+      <i>{{ publication.journal }}</i>
+      ({{publication.year }})</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
