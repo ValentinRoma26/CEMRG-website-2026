@@ -3305,6 +3305,8 @@ body {
   line-height: 2.5rem;
 }
 .modTeamMember img {
+  position: relative;
+  /*top: -150px;*/
   width: 100%;
 }
 .modTeamMember .overlay {
