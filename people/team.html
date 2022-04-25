@@ -12,7 +12,7 @@ description: Who are we?
       {% include section-header.html title="The team" %}
       <div class="spacing"></div>
       {% for member in site.data.members %}
-      <div class="row" id="{{member.name | url_encode}}">
+      <div class="row" id="{{member.name | url_encode}}" style="padding-top:60px;"> <!-- Padding added manually to avoid the height of the bar -->
         <div class="small-6 medium-3 large-3 columns">
           <div class="mod modTeamMember">
             <div class="member">
@@ -48,7 +48,7 @@ description: Who are we?
       <h3>Past Members</h3>
       <hr />
       {% for member in site.data.alumni %}
-      <div class="row" id="{{member.name | url_encode}}">
+      <div class="row" id="{{member.name | url_encode}}" style="padding-top:60px;"> <!-- Padding added manually to avoid the height of the bar -->
         <div class="small-6 medium-3 large-3 columns">
           <div class="mod modTeamMember">
             <div class="member">

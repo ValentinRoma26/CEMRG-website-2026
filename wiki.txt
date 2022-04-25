@@ -14,3 +14,11 @@ Might take a bit because of the cache/cookies.
 ### Update collaborators
 
 Add an entry to ``_data/collaborators.yml``.
+
+### Overlap with nav bar
+
+When updating the members of the team, there was an overlap with the navigation
+bar when the url was one of the members (something like 
+cemrg.com/people/team.html#Damiano%20Fassina). The way to quick-fix this was in
+the team.html file, adding ``style="padding-top:60px;`` to the bracket of the
+div "row".
