@@ -62,7 +62,16 @@
     - link: https://kclpure.kcl.ac.uk/portal/cesare.corrado.html
       icon: quote-right 
   desc:
-    Dr Cesare Corrado obtained his  master degree in Aerospace Engineering at the Politecnico di Milano, Italy and his PhD degree in Civil and Environmental Engineering at the University of Padua, Italy. </p><p>His earlier research concerned computational models for multi-physics problems and data assimilation techniques (reverse engineering).  </p><p>His current research interests focus on the development of clinically tractable methods to build personalised computational models from clinical data (MRI, Electrograms) and on the quantification of the model uncertainty, with a particular interest in predictive performance. </p><p>His research aims in developing new tools to improve the treatment of cardiac arrhythmias.
+    Dr Cesare Corrado obtained his  master degree in Aerospace Engineering at 
+    the Politecnico di Milano, Italy and his PhD degree in Civil and 
+    Environmental Engineering at the University of Padua, Italy. </p>
+    <p>His earlier research concerned computational models for multi-physics 
+    problems and data assimilation techniques (reverse engineering). His current
+     research interests focus on the development of clinically tractable methods 
+     to build personalised computational models from clinical data (MRI, 
+     Electrograms) and on the quantification of the model uncertainty, with a 
+     particular interest in predictive performance. His research aims in 
+     developing new tools to improve the treatment of cardiac arrhythmias.
 
 - avatar: /images/members/JoseA.jpg
   name : José Alonso Solís-Lemus
@@ -118,13 +127,6 @@
     in Mathematics shared by Universitat de València and by Universitat 
     Politècnica de València. At the same time, he went through another MSc in 
     Computational Mathematics by Universitat Jaume I in Castellón. </p>
-    
-    <p>Cristobal is part of the Marie Skłodowska-Curie Actions training 
-    network PIC (Personalised In-Silico Cardiology), where he is in constant 
-    collaboration with people working across the EU in academic, clinical and 
-    company-like environments. His work is on Cardiac Resynchronization 
-    Therapy (CRT), where the goal is to recover the synchrony of the ventricles 
-    pumping.</p>
     
     <p>Cristobal started his PhD in 2017 in Biomedical Engineering, both in 
     CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on 
