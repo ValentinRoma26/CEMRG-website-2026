@@ -30,3 +30,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 gem "jekyll-paginate", "~> 1.1"
+
+gem "minitest", "~> 5.15"
+
+gem "rake", "~> 13.0"
