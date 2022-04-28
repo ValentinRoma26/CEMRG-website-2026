@@ -22,3 +22,7 @@ bar when the url was one of the members (something like
 cemrg.com/people/team.html#Damiano%20Fassina). The way to quick-fix this was in
 the team.html file, adding ``style="padding-top:60px;`` to the bracket of the
 div "row".
+
+### Members photos
+
+All photos should be 500px x 500px

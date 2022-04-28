@@ -95,7 +95,7 @@
     completion of her PhD in 2021, she continued in CEMRG for a postdoctoral position funded by the British Heart 
     Foundation.
 
-- avatar: /images/members/hamed_cemrg.jpg
+- avatar: /images/members/hamed_keramati.png
   name: Hamed Keramati
   position: 
   socials:
@@ -104,7 +104,7 @@
   desc:
     Hamed Keramati received his master’s degree in Mechanical Engineering from Nanyang Technological University (NTU), Singapore, with a thesis titled “Design and development of MEMS rotary fans.” Subsequently, he worked as a Research Associate at NTU working on numerical simulation of the blood flow in the aorta. Before starting his PhD study, he worked as a Fluid Dynamics Engineer at Dyson, for which he performed numerical and experimental analyses of cyclonic separation. He later started his PhD at the National University of Singapore (NUS) and has recently submitted his PhD thesis “An Investigation of the Blood Flow and the Vessel Displacement in the Aortic Dissection”. His PhD research focused on the fluid-structure interaction simulation and Monte Carlo simulation of a reduced-order model of a dissected aorta. He has joined CEMRG in 2021, and he works on modelling the blood flow in the heart to optimise the design and calibration of the PEPT imaging for the cardiac blood flow.
 
-- avatar: /images/members/cristobal_rodero.JPG
+- avatar: /images/members/cristobal_rodero.png
   name: Cristobal Rodero
   position: 
   socials:
@@ -151,7 +151,7 @@
   desc:
     Damiano Fassina made his first steps in the academic world in Italy, where he achieved a three years Bachelor Degree in Biomedical Engineering. Subsequently, he was awarded with a two years Master Degree in Bioengineering. Both titles were conferred from the University of Padova.</p><p>In October 2018 he moved to London to start a PhD, and since then he has been a member of King's College CEMRG. Damiano’s PhD project involves the creation of a model of human induced pluripotent stem cells derived cardiomyocytes, for regenerative medicine application. His investigations through models at cellular and tissue level aim to achieve better understanding of stem cells derived cardiomyocytes’ electrophysiological behavior. Damiano’s research work is thus focused towards the successful coupling of engineered cardiomyocytes with adult myocytes, and assess the feasibility of replacing damaged heart tissue with engineered patches.
 
-- avatar: /images/members/sofia.jpg
+- avatar: /images/members/sofia_monaci.png
   name: Sofia Monaci
   position: 
   socials:
@@ -166,7 +166,7 @@
     in-situ. She first led an in-silico pace mapping to guide VT ablation planning non-invasively, and she then 
     implemented two computational-artificial intelligence (AI) platforms to automate the localisation of focal and 
     post-infarct VTs respectively, with a similar aim.
-- avatar: /images/members/shuang_qian.JPG
+- avatar: /images/members/shuang_qian.png
   name: Shuang Qian
   position:
   socials:
@@ -184,7 +184,7 @@
     data sets in the Biobank that evolve through time.
 
 
-- avatar: /images/members/zaidi_kcl.jpg
+- avatar: /images/members/hassan_zaidi.png
   name: Hassan Zaidi
   position: 
   socials:
@@ -194,7 +194,7 @@
   desc:
     Hassan graduated as an applied mathematician from The University of Nottingham, going on to complete an MSc in Applied Statistics with Operational Research and a PGCE in mathematics. His background has seen him work in various fields&#58; Nottinghamshire police, teaching, research, start-ups and the NHS. </p><p>Hassan’s project is based on the understanding that susceptibility to cardiac arrhythmias represents a highly complex system with intrinsic dependence on pathological structural and functional cardiac properties. Current guidelines suggest the use of a compromised LV ejection fraction (LVEF) to guide ICD implantation; however, only a third of SCD cases exhibit low LVEF. Functional biomarkers (from ECG recordings) and structural biomarkers (from MR imaging) have been independently correlated with arrhythmia risk, however, they have yet to demonstrate sufficient power to alter current clinical practice. Therefore, Hassan’s hypothesis is that a risk prediction model which combines both structural and functional features, augmented by structure-function simulation-based features, will significantly enhance risk stratification for ICD requirement.</p>
 
-- avatar: /images/members/charles_kcl.jpg
+- avatar: /images/members/charles_sillett.png
   name: Charles Sillett
   position: 
   socials:
