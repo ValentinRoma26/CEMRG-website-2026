@@ -26,3 +26,6 @@ div "row".
 ### Members photos
 
 All photos should be 500px x 500px
+
+### Top bar
+The configuration of the navigation bar is in _includes/header.html
