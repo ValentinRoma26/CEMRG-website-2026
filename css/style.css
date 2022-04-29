@@ -2189,6 +2189,7 @@ form input.error, form textarea.error {
   left: 0;
   opacity: 1;
 }
+
 .modDefaultSlider .sequence .animate-in .info3.left-to-right {
   -moz-transition-delay: 1.6s;
   -o-transition-delay: 1.6s;

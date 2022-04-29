@@ -6,19 +6,19 @@ slides:
     title:
       klass: bottom-to-top
       text: Heart Failure
-    link_to: "projects/HeartFailure.html"
+    link_to: "projects/HeartFailure"
 
   - bg: images/projects/arrhythmia/Vm_EPI00061.png
     title:
       klass: bottom-to-top
       text: Arrhythmia
-    link_to: "projects/Arrhythmia.html"
+    link_to: "projects/Arrhythmia"
 
   - bg: images/projects/image_processing/veins.png
     title:
       klass: bottom-to-top
       text: CemrgApp
-    link_to: "software/cemrg.html"
+    link_to: "software/cemrg"
 ---
 
 {% if jekyll.environment == "gitlab" %} {% assign baseurl = "/cemrg" %} {% else
@@ -31,7 +31,9 @@ slides:
     <ul class="sequence-pagination">
       {% for slide in page.slides %} {% if forloop.first %} {% assign class =
       'current' %} {% else %} {% assign class = '' %} {% endif %}
-      <li class="{{class}}"></li>
+      <li class="{{class}}" >
+
+      </li>
       {% endfor %}
     </ul>
     <ul class="sequence-canvas">
@@ -44,7 +46,7 @@ slides:
       >
         <div
           class="bg"
-          style="background-image: url({{ slide.bg}}); background-size: 500px;background-repeat: no-repeat; background-color: white"
+          style="background-image: url({{ slide.bg}}); background-size: 30%;background-repeat: no-repeat; background-color: white"
         ></div>
         <div class="small-title {{ slide.small_title.klass }}">
           <div class="row">

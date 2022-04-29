@@ -8,7 +8,7 @@ section_id: publications
     <div class="large-12 columns">
       {% assign reverse_publications = site.data.publications %} {% for publication in
       reverse_publications %}
-      <p><a href={{publication.author_id | url_encode | prepend: "/people/team.html#" | prepend: baseurl}}>{{ publication.first_author }}</a>,
+      <p><a href={{publication.author_id | url_encode | prepend: "/people/team#" | prepend: baseurl}}>{{ publication.first_author }}</a>,
       {{ publication.authors }}
       <a href="{{publication.url}}"><b>{{ publication.title }}</b></a>
       <i>{{ publication.journal }}</i>
