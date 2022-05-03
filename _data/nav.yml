@@ -13,7 +13,7 @@
   path: projects/
   section_id: projects
 - name: Models
-  path: models/
+  path: models
   section_id: models
 - name: Software
   path: software/
