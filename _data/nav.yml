@@ -28,3 +28,6 @@
 - name: Selected publications
   path: publications
   section_id: publications
+- name: Contact us
+  path: contact
+  section_id: contact
