@@ -1,12 +1,17 @@
 # _plugins/url_encode.rb
 require 'liquid'
 require 'uri'
+# require "erb"
+# include ERB::Util
 
 # Percent encoding for URI conforming to RFC 3986.
 # Ref: http://tools.ietf.org/html/rfc3986#page-12
 module URLEncoding
   def url_encode(url)
-    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+    # p = URI::Parser.new
+    # p.escape(s)
+    return URI::Parser.new.escape(url)
+    # return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
   end
 end
 
