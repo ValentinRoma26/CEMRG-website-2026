@@ -1,0 +1,35 @@
+---
+layout: default
+category: internal
+title: CEMRG internal resources
+path: internal
+---
+
+<!-- The sidebar -->
+<div class="sidebar">
+  {% for section in site.data.internal_sections %}
+  <a href="#{{section.title | url_encode}}">{{section.title}}</a>
+  {% endfor %}
+</div>
+<div class="content"> 
+<div class="full">
+  <div class="row">
+    <div class="large-12 columns">
+      {% include section-header.html title="CEMRG internal resources" %}
+      <div class="spacing"></div>
+      {% for section in site.data.internal_sections %}
+      <div class="row" id="{{section.title | url_encode}}" style="padding-top:60px;"> <!-- Padding added manually to avoid the height of the bar -->
+        <h3>{{section.title}}</h3>
+        <div class="small-12 medium-9 large-9 columns">
+          {% for item in section.subsec %}
+          <li>{{item.desc}}
+            {% endfor %}
+          <div class="two spacing"></div>
+        </div>
+      </div>
+      {% endfor %} <br />
+
+    </div>
+  </div>
+</div>
+</div>

@@ -1,0 +1,119 @@
+- title: Communication
+  subsec:
+    - desc: <b><a href=https://Cemrg.slack.com> Slack </a></b>. Besides 
+        Microsoft Teams, we use Slack as the main channel to communicate. If you
+        do not have access to it ask 
+        <a href=https://cemrg.com/people/team#Steven%20Niederer>Steve Niederer</a>.
+
+- title: Software 
+  subsec:
+    - desc: <b><a href=https://bitbucket.org/account/user/electromechanics/>
+        Group bitbucket</a></b>. In this repository we share software resources
+        such as meshtool3d, cm2carp or catheter1dsim. If you do not have access 
+        to it ask 
+        <a href=https://cemrg.com/people/team#Angela%20Lee>Angela Lee</a>.
+    - desc: <b>CARPentry</b>. To download the binaries for CARP and CARPentry
+        access 
+        <a href=https://carpentry.medunigraz.at/download/london/>this link</a>
+        and ask a previous user for the username and password. 
+
+- title: HPC access
+  subsec:
+    - desc: <b>ARCHER2</b>. To create an account and have access to ARCHER2
+        (previously ARCHER) follow the steps indicated in their 
+        <a href=https://docs.archer2.ac.uk/user-guide/connecting/>documentation</a>.
+    - desc: <b>Tom2</b>. To create an account and have access to Tom2
+        (previously Tom) fill in 
+        <a href="./BLANK - HPC Project Form.doc">this form</a> and send it to 
+        IT.
+    
+- title: Coffee
+  subsec:
+    - desc: We buy coffee pods in bulk to use with the coffee
+        machine in the hospital's kitchen. For flavours and prices ask 
+        <a href=https://cemrg.com/people/team#Hamed%20Keramati>Hamed Keramati</a>.
+
+- title: Useful KCL links
+  subsec:
+    - desc: <b><a href=https://www.teamseer.com/auth/signin>Vacation days 
+        booking</a></b>. This link is valid for staff. If you are a student, 
+        talk about it with your supervisor.
+    - desc: <b><a href=https://www.isd.kcl.ac.uk/internal/roombooking/browseweek.php>
+        Room booking</a></b> for meetings or videocalls.
+
+- title: Useful KCL forms
+  subsec:
+    - desc: <b>Expense claim forms</b>. Any reasonable expense in activities 
+        such as conferences or research trips should be claimed back from the 
+        corresponding budget. If you don't know which grant number ask your 
+        supervisor/PI. You have to fill the corresponding form &#58 
+        <a href=https://internal.kcl.ac.uk/about/ps/finance/ap/student-expense-form-2018.docx>
+        form for students</a>, 
+        <a href=https://internal.kcl.ac.uk/about/ps/finance/ap/Staff-Expense-Form-2018.docx>
+        form for staff</a>.
+    - desc: <b>Travel insurance forms</b>. You need to hire a travel insure for 
+        every overseas trip you make on College business at least 4 weeks before
+        deaparture. Similarly as with the expense claim forms, there is one 
+        <a href=https://kcl.my.salesforce.com/apex/bmcservicedesk__ssredirect?type=sr&id=a3S3X00000230CJUAY#/support/problem-requests/all/segregation>
+        for students</a>, and one
+        <a href=https://kcl.my.salesforce.com/apex/bmcservicedesk__ssredirect?type=sr&id=a3S3X000002ak23UAA>
+        for staff</a>.
+
+- title: Health and safety
+  subsec:
+    - desc: <b>Minor injuries</b>. In the kitchen there is always a first-aid
+        kit to assist with minor injuries or pains.
+    - desc: <b>Fire alarm</b>. If the alarm blares intermitently, prepare to 
+        leave. As soon as it starts blaring continously, leave immediately.
+    - desc: For any other concern contact the School Technical Manager 
+        <a href=mailto:david.thakor@kcl.ac.uk>David Thakor</a>.
+
+- title: Security phone numbers
+  subsec:
+    - desc: KCL is ext. 83395 or 83397
+    - desc: Trust is ext. 3333 in an emergency
+    -  desc: Ext. 86622 is the non-emergency number for Trust Security.
+
+- title: KCL staff to contact
+  subsec:
+    - desc: For IT problems you can contact the Faculty's service at 
+        <a href=mailto:isd-helpdesk@kcl.ac.uk>isd-helpdesk@kcl.ac.uk</a> or
+        the university's helpdesk at 
+        <a href=mailto:itservicedesk@kcl.ac.uk>itservicedesk@kcl.ac.uk</a>.
+    - desc: For any other enquiries, including HR, public engagement or 
+        financial, find the corresponding person in the document below.
+        <object data="./BMEIS Professional Services Suport Summary.pdf" type="application/pdf" width="100%" height="800px">
+        <p>Your web browser doesn't have a PDF plugin.
+        <a href="./BMEIS Professional Services Suport Summary.pdf">click here to download the PDF file.</a></p>
+        </object>
+
+- title: Once you publish a paper
+  subsec: 
+    - desc: Consider disseminating your results using the <b>Public Engagement</b>
+        infrastructure at KCL. Besides posting about it in your social networks,
+        contact 
+        <a href=https://cemrg.com/people/team#Cristobal%20Rodero>Cristobal Rodero</a>
+        to tweet it using the group's Twitter account. 
+        <p> You can also contact the PE team (look for the corresponding person
+        in the <a href=#KCL%20staff%20to%20contact>BMEIS Professional Services Suport Summary</a>)
+        to have an interview with them and publish it on the 
+        <a href=https://www.kcl.ac.uk/bmeis/about-us/news>KCL news room</a>.
+    - desc: <b>Back it up</b>. Wrap up the data and scripts used for the study. The idea is that
+        if in the future we need to replicate it or use the data/tools of the
+        paper, to be able to do it even if the person is no longer in the group.
+        We backup any completed papers, associated code repos/scripts, and 
+        datasets for those papers/projects. Exclude any large output files that 
+        could be recreated with the code or data which we're not allowed to 
+        reuse. 
+        
+        <p> Place each project or paper with its data and scripts in a separate 
+        folder, including a README file, in the following address&#58</p>
+
+        <p style="font-family:consolas">/bioeng408-srv/cemrg-repo/[YEAR]/[LAST NAME OF FIRST AUTHOR]_[FIRST NAME OF FIRST AUTHOR]/[PAPER TITLE]</p>
+    - desc: <b>Report the back up</b>. Update 
+        <a href=https://emckclac-my.sharepoint.com/:x:/g/personal/k1768830_kcl_ac_uk/EXqg1Uz2jL5Jmm7H3LDF3bMBu754SxoP6PhX4W6p-m44YA?e=DuIKZN>
+        the spreadsheet</a> where we have all
+        backed up projects, in the "PAPERS" sheet. 
+    
+
+
