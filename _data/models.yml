@@ -22,7 +22,7 @@
       text: Journal of Physiology
     - url: http://models.cellml.org/e/e4
       text: cellML
-    - url: /models/land_rat_tako.m
+    - url: /models_files/land_rat_tako.m
       text: Matlab
 - title: "A Spatially Detailed Model of Isometric Contraction Based on Competitive Binding of Troponin I Explains Cooperative Interactions between Tropomyosin and Crossbridges"
   citation: "Land S, Niederer SA. PLoS Computational Biology, 2015"
@@ -30,7 +30,7 @@
   links:
     - url: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004376
       text: PLOS
-    - url: /models/TnImodel-release.zip
+    - url: /models_files/TnImodel-release.zip
       text: Matlab
 - title: "A model of cardiac contraction based on novel measurements of tension development in human cardiomyocytes."
   citation: "S Land, SJ Park-Holohan, NP Smith, CG Dos Remedios, JC Kentish, SA Niederer. JMCC, 2017"
@@ -38,7 +38,7 @@
   links:
     - url: https://www.ncbi.nlm.nih.gov/pubmed/28392437
       text: Pubmed
-    - url: /models/HumanCtr-release.zip
+    - url: /models_files/HumanCtr-release.zip
       text: Matlab
 
 - title: "Personalized computational finite element models for left atrial electromechanics"
