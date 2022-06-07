@@ -1,3 +1,13 @@
+- title: "An automated near-real time computational method for induction and treatment of scar-related ventricular tachycardias"
+  first_author: "Fernando O. Campos"
+  author_id: "Fernando Campos"
+  authors: "Aurel Neic, Caroline Mendonca Costa, John Whitaker, Mark O'Neill, 
+  Reza Razavi, Christopher A. Rinaldi, Daniel Scherr, Steven A. Niederer, 
+  Gernot Plank, Martin J. Bishop"
+  journal: "Medical Image Analysis"
+  year: "2022"
+  url: https://www.sciencedirect.com/science/article/pii/S136184152200130X
+
 - title: "Radiomics and Machine Learning for Detecting Scar Tissue on CT Delayed Enhancement Imaging."
   first_author: "Hugh O'Brien"
   author_id: "Hugh O'Brien"
