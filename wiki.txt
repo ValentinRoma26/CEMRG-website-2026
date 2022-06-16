@@ -29,3 +29,8 @@ All photos should be 500px x 500px
 
 ### Top bar
 The configuration of the navigation bar is in _includes/header.html
+
+### Page title
+
+Both the title that appears in the tab and the title that appears in the Google
+Search is in _site/index.html under the <title> </title> section.
