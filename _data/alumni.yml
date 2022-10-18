@@ -1,3 +1,43 @@
+- avatar: /images/members/Damiano_F.JPG
+  name: Damiano Fassina
+  position: 
+  socials:
+    - link: https://scholar.google.co.uk/citations?user=a73HevYAAAAJ
+      icon: google
+  desc:
+    Damiano Fassina made his first steps in the academic world in Italy, where 
+    he achieved a three years Bachelor Degree in Biomedical Engineering. 
+    Subsequently, he was awarded with a two years Master Degree in 
+    Bioengineering. Both titles were conferred from the University of Padova.</p>
+    
+    <p>In October 2018 he moved to London to start a PhD, and then he started as 
+    a member of King's College CEMRG. Damiano’s PhD project involved the 
+    creation of a model of human induced pluripotent stem cells derived 
+    cardiomyocytes, for regenerative medicine application. His investigations 
+    through models at cellular and tissue level aimed to achieve better 
+    understanding of stem cells derived cardiomyocytes’ electrophysiological 
+    behavior. Damiano’s research work was thus focused towards the successful 
+    coupling of engineered cardiomyocytes with adult myocytes, and assess the 
+    feasibility of replacing damaged heart tissue with engineered patches. He 
+    graduated in 2022 and moved to work for Bravura Solutions.
+
+
+- avatar: /images/members/sofia_monaci.png
+  name: Sofia Monaci
+  position: 
+  socials:
+  desc:
+    Sofia Monaci first graduated in Biomedical Engineering at King’s College London in 2018, and she then went on to do 
+    a MRes and PhD under the supervision of Dr Martin Bishop (via the Centre for Doctoral Training in Medical 
+    Imaging Modalities).
+    She is really enthusiastic and passionate about “'mending the heart” with engineering tools! <\p>
+
+    <p>During her PhD, her research aimed at optimising ventricular tachycardia (VT) 
+    treatments by utilising electrograms recordings stored in implanted devices, that the majority of VT patients have 
+    in-situ. She first led an in-silico pace mapping to guide VT ablation planning non-invasively, and she then 
+    implemented two computational-artificial intelligence (AI) platforms to automate the localisation of focal and 
+    post-infarct VTs respectively, with a similar aim. Sofia graduated in 2022, and moved to work for Medtronic.
+
 - avatar: /images/members/Phillip.jpg
   name: Philip Gemmell
   position:
