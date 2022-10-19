@@ -1,3 +1,11 @@
+- title: "Regional left ventricle scar detection from routine cardiac computed tomography angiograms using latent space classification"
+  first_author: "Hugh O'Brien"
+  author_id: "Hugh O'Brien"
+  authors: "John Whitaker, Mark D. O’Neill, Karine Grigoryan, Harminder Gill, Vishal Mehta, Mark Elliott, Christopher Aldo Rinaldi, Holly Morgan, Divaka Perera, Jonathan Taylor, Ronak Rajani, Kawal Rhode, Steven Niederer"
+  journal: "Computers in Biology and Medicine"
+  year: "2022"
+  url: https://www.sciencedirect.com/science/article/pii/S001048252200899X
+
 - title: "Optimization of anti-tachycardia pacing efficacy through scar-specific delivery and minimization of re-initiation: a virtual study on a cohort of infarcted porcine hearts"
   first_author: "Shuang Qian"
   author_id: "Shuang Qian"
