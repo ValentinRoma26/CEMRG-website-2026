@@ -32,6 +32,16 @@
       text: PLOS
     - url: /models_files/TnImodel-release.zip
       text: Matlab
+
+- title: "Verification of cardiac mechanics software: benchmark problems and solutions for testing active and passive material behaviour"
+  citation: "Land S, Gurev V, Arens S, Augustin CM, Baron L, Blake R, Bradley C, Castro S, Crozier A, Favino M, Fastl TE. Verification of cardiac mechanics software: benchmark problems and solutions for testing active and passive material behaviour. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2015 Dec 8;471(2184):20150641."
+  description: To aid in the verification of current and future cardiac mechanics solvers, this study provides three benchmark problems for cardiac mechanics. These benchmark problems test the ability to accurately simulate pressure-type forces that depend on the deformed objects geometry, anisotropic and spatially varying material properties similar to those seen in the left ventricle and active contractile forces.
+  links:
+    - url: https://pubmed.ncbi.nlm.nih.gov/26807042/
+      text: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+    - url: https://bitbucket.org/vgurev/mechbench/src/master/
+      text: Bitbucket
+
 - title: "A model of cardiac contraction based on novel measurements of tension development in human cardiomyocytes."
   citation: "S Land, SJ Park-Holohan, NP Smith, CG Dos Remedios, JC Kentish, SA Niederer. JMCC, 2017"
   description: A model of human cardiac contraction intended for multi-scale modelling applications. Download includes relevant experimental data, and C++ code is available on request.
