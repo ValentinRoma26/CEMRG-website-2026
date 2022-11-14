@@ -1,3 +1,11 @@
+- title: "Non-invasive localization of post-infarct ventricular tachycardia exit sites to guide ablation planning: a computational deep learning platform utilizing the 12-lead electrocardiogram and intracardiac electrograms from implanted devices"
+  first_author: "Sofia Monaci"
+  author_id: "Sofia Monaci"
+  authors: "Shuang Qian, Karli Gillette, Esther Puyol-Antón, Rahul Mukherjee, Mark K Elliott, John Whitaker, Ronak Rajani, Mark O’Neill, Christopher A Rinaldi, Gernot Plank, Andrew P King, Martin J Bishop"
+  journal: "EP Europace"
+  year: "2022"
+  url: https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euac178/6825231
+
 - title: "Subthreshold delayed afterdepolarizations provide an important arrhythmogenic substrate in the border zone of infarcted hearts"
   first_author: "Fernando O. Campos"
   author_id: "Fernando Campos"
