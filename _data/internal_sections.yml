@@ -29,9 +29,7 @@
     
 - title: Coffee
   subsec:
-    - desc: We buy coffee pods in bulk to use with the coffee
-        machine in the hospital's kitchen. For flavours and prices ask 
-        <a href=https://cemrg.com/people/team#Hamed%20Keramati>Hamed Keramati</a>.
+    - desc: A coffee machine is available in the kitchen. Each person is responsible for buying their own pods.
 
 - title: Useful KCL links
   subsec:
@@ -74,10 +72,12 @@
 
 - title: Health and safety
   subsec:
-    - desc: <b>Minor injuries</b>. In the kitchen there is always a first-aid
-        kit to assist with minor injuries or pains.
-    - desc: <b>Fire alarm</b>. If the alarm blares intermitently, prepare to 
-        leave. As soon as it starts blaring continously, leave immediately.
+    - desc: <b>Minor injuries</b>. In the kitchen there is always a first-aid kit to assist with minor injuries or 
+            aches. If you see anything missing from it, please contact our designated first aider 
+            <a href=https://cemrg.com/people/team#Jos%C3%A9%20Alonso%20Sol%C3%ADs-Lemus>Jos&eacute.</a>
+    - desc: <b>Fire alarm</b>. If the alarm blares intermitently, prepare to leave. As soon as it starts blaring 
+            continously, leave immediately. Any question please contact our designated fire warden 
+            <a href=https://cemrg.com/people/team#Cesare%20Corrado>Cesare.</a>
     - desc: For any other concern contact the School Technical Manager 
         <a href=mailto:david.thakor@kcl.ac.uk>David Thakor</a>.
 
