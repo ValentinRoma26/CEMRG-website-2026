@@ -1,3 +1,11 @@
+- title: "Quantifying the impact of shape uncertainty on predicted arrhythmias"
+  first_author: "Cesare Corrado"
+  author_id: "Cesare Corrado"
+  authors: "Caroline H. Roney, Orod Razeghi, Josè Alonso Solís Lemus, Sam Coveney, Iain Sim, Steven E. Williams, Mark D. O’Neill, Richard D. Wilkinson, Richard H. Clayton, Steven A. Niederer"
+  journal: "Computers in Biology and Medicine"
+  year: "2023"
+  url: https://www.sciencedirect.com/science/article/pii/S0010482522012367
+
 - title: "Non-invasive localization of post-infarct ventricular tachycardia exit sites to guide ablation planning: a computational deep learning platform utilizing the 12-lead electrocardiogram and intracardiac electrograms from implanted devices"
   first_author: "Sofia Monaci"
   author_id: "Sofia Monaci"
