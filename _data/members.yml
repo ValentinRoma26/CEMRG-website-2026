@@ -252,4 +252,24 @@
     integrating and blending the expertise from both the computational and 
     clinical domain.</p>
 
+- avatar: /images/members/Manisha_Sahota.jpg
+  name: Manisha Sahota
+  position:
+  socials:
+    - link: https://scholar.google.com/citations?user=rMuJaZkAAAAJ&hl=en&oi=ao
+      icon: google
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/manisha-sahota(a8d5be10-cb12-4232-862d-3eff2d9c3198).html
+      icon: quote-right
+  desc:
+    Manisha Sahota received her Bachelor of Engineering in Biomedical Engineering from King’s College London, after 
+    which she completed a MSc in Healthcare Technologies also at King’s College London, with a focus on AI and medical 
+    image computing. For her BEng final project, she used machine learning to evaluate left ventricular outflow tract 
+    obstruction in hypertrophic cardiomyopathy, working in the Cardiac Modelling and Imaging Biomarkers group at King’s 
+    College London. Her interests in computational cardiac modelling and AI-enabled imaging to enhance the 
+    understanding of prevalent cardiac disorders led her to join the Centre for Doctoral Training in Smart Medical 
+    Imaging to start a PhD in the CEMRG lab in October 2022. Her PhD will focus on the intra-procedural updating of 
+    cardiac digital twins for automated ventricular tachycardia ablation target guidance in collaboration with Philips 
+    Healthcare Research.
+
+
 
