@@ -252,22 +252,4 @@
     integrating and blending the expertise from both the computational and 
     clinical domain.</p>
 
-- avatar: /images/members/matteo_salvador.jpg
-  name: Matteo Salvador
-  position:
-  socials:
-    - link: https://scholar.google.com/citations?user=PJ46PfEAAAAJ
-      icon: google
 
-  desc:
-    Matteo Salvador received his Bachelor of Science in Mathematical Engineering ans his Master of Science in 
-    Computational Science and Engineering from Politecnico di Milano, Italy. He completed his PhD in Mathematical 
-    Models and Methods for Engineering at Politecnico di Milano under the supervision of Prof. Alfio Quarteroni. He 
-    worked in the framework of the iHeart project, whose aim is to create a fully integrated human heart for the 
-    accurate and efficient numerical simulation of the cardiac function. Specifically, he developed comprehensive 
-    mathematical models blended with novel numerical methods and Scientific Machine Learning for cardiac 
-    electromechanics. </p>
-    
-    <p> Matteo Salvador is a visiting research fellow at CEMRG since September 2022. He is building neural-network 
-    based reduced-order models to perform four-chamber heart electromechanical simulations in short computational times 
-    and by avoiding the use of high performance computing.
