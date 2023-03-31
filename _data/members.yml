@@ -139,12 +139,12 @@
   desc:
     Cristobal Rodero received his bachelor's degree in Mathematics by the 
     Universitat de València, Spain in 2016. Cristobal coursed a MSc of Research 
-    in Mathematics shared by Universitat de València and by Universitat 
-    Politècnica de València. At the same time, he went through another MSc in 
+    in Mathematics shared by Universitat de València and by Universitat 
+    Politècnica de València. At the same time, he went through another MSc in 
     Computational Mathematics by Universitat Jaume I in Castellón. </p>
     
     <p>Cristobal started his PhD in 2017 in Biomedical Engineering, both in 
-    CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on 
+    CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on 
     studying shape and function in the heart and how the interact with each
     other. He also worked on calibration of models using emulators. In 
     February 2022 he started a position at CEMRG as research assistant to
@@ -272,4 +272,43 @@
     Healthcare Research.
 
 
+- avatar: /images/members/Manisha_Sahota.jpg
+  name: Manisha Sahota
+  position:
+  socials:
+    - link: https://scholar.google.com/citations?user=rMuJaZkAAAAJ&hl=en&oi=ao
+      icon: google
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/manisha-sahota(a8d5be10-cb12-4232-862d-3eff2d9c3198).html
+      icon: quote-right
+  desc:
+    Manisha Sahota received her Bachelor of Engineering in Biomedical Engineering from King’s College London, after 
+    which she completed a MSc in Healthcare Technologies also at King’s College London, with a focus on AI and medical 
+    image computing. For her BEng final project, she used machine learning to evaluate left ventricular outflow tract 
+    obstruction in hypertrophic cardiomyopathy, working in the Cardiac Modelling and Imaging Biomarkers group at King’s 
+    College London. Her interests in computational cardiac modelling and AI-enabled imaging to enhance the 
+    understanding of prevalent cardiac disorders led her to join the Centre for Doctoral Training in Smart Medical 
+    Imaging to start a PhD in the CEMRG lab in October 2022. Her PhD will focus on the intra-procedural updating of 
+    cardiac digital twins for automated ventricular tachycardia ablation target guidance in collaboration with Philips 
+    Healthcare Research.
+
+
+- avatar: /images/members/ludovica_cicci.jpg
+  name: Ludovica Cicci
+  position: 
+  socials:
+
+  desc:
+    Ludovica Cicci obtained her BSc in Mathematics and her MSc in Applied 
+    Mathematics at Sapienza Universit&agrave; di Roma. In 2021 she completed a 
+    PhD degree at Politecnico di Milano, where she was involved in an ERC 
+    project for the construction of cardiac digital twins, focusing on the 
+    development of reduced order models to speed up the computation of 
+    mechanics simulations.</p>
+    
+    <p>After one more year at Politecnico di Milano as 
+    post-doc in mathematical models and methods for personalized and precision 
+    medicine, she joined CEMRG as research associate in Novermber 2022. 
+    Making use of virtual simulations on patient-specific geometries, 
+    she is currently investigating the impact of electrodes location and other 
+    electrophysiology parameters on electrocardiograms.
 
