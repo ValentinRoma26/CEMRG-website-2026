@@ -25,6 +25,8 @@
       path: software/gperks
     - name: OpenEP
       path: software/openep
+    - name: LA MR reconstruction
+      path: software/la_mr_rec
 - name: Selected publications
   path: publications
   section_id: publications
