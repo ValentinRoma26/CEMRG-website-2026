@@ -6,6 +6,7 @@
       text: Science Direct
     - url: http://models.cellml.org/exposure/97fb1de5199b1a74c89281db97aecc13/niederer_hunter_smith_2006.cellml/view
       text: cellML
+
 - title: "A mathematical model of the murine ventricular myocyte: a data-driven biophysically based approach applied to mice overexpressing the canine NCX isoform A Mathematical Model of the Slow Force Response to Stretch in Rat Ventricular Myocytes"
   citation: "L. Li , S. A. Niederer , W. Idigo , Y. H. Zhang , P. Swietach , B. Casadei , N. P. Smith, 2010 American Journal of Physiology, Voume 299 no. H1045-H1063"
   description: A mouse electrophysiology model fitted to mouse data at physiological temperatures and capable of pacing to physiological pacing rates.
@@ -122,7 +123,7 @@
 
 - title: "Predicting Atrial Fibrillation Recurrence by Combining Population Data and Virtual Cohorts of Patient-Specific Left Atrial Models"
   citation: "Roney, Caroline H., Iain Sim, Jin Yu, Marianne Beach, Arihant Mehta, Jose Alonso Solis-Lemus, Irum Kotadia et al. Predicting Atrial Fibrillation Recurrence by Combining Population Data and Virtual Cohorts of Patient-Specific Left Atrial Models. Circulation: Arrhythmia and Electrophysiology (2021): CIRCEP-121."
-  description:
+  description: We include surface meshes in vtk format, consisting of the nodes, triangular elements, the atrial coordinate fields defined on the nodes, and the endocardial and epicardial fibre fields defined on the elements. 
   links:
     - url: https://www.ahajournals.org/doi/abs/10.1161/CIRCEP.121.010253
       text: Paper
@@ -132,9 +133,21 @@
       text: Data governance
 - title: "Whole Torso Computational Models"
   citation: "Qian S, Monaci S, Mendonca-Costa C, Campos F, Gemmell P, Zaidi HA, Rajani R, Whitaker J, Rinaldi CA, Bishop MJ. Additional coils mitigate elevated defibrillation threshold in right-sided implantable cardioverter defibrillator generator placement: a simulation study. Europace. 2023 Jun;25(6):euad146."
-  description:
+  description: Whole torso computational models generated from high-resolution CT data.
   links:
     - url: https://academic.oup.com/europace/article/25/6/euad146/7197117
       text: Paper
     - url: https://zenodo.org/record/7253863
       text: Meshes (Zenodo)
+
+- title: "Cell to Whole Organ Global Sensitivity Analysis on a Four-chamber Heart Electromechanics Model Using Gaussian Processes Emulators - Training Datasets"
+  citation: "Strocchi M, Longobardi S, Augustin CM, Gsell MAF, Petras A, Rinaldi CA, et al. (2023) Cell to whole organ global sensitivity analysis on a four-chamber heart electromechanics model using Gaussian processes emulators. PLoS Comput Biol 19(6): e1011257. https://doi.org/10.1371/journal.pcbi.1011257"
+  description: This database contains all training datasets for the Gaussian processes emulators (GPEs) trained in the study entitled "Cell to Whole Organ Global Sensitivity Analysis on a Four-chamber Electromechanics Model Using Gaussian Processes Emulators", submitted to PLOS Computational Biology.
+  links:
+    - url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011257
+      text: Paper
+    - url: https://zenodo.org/record/7405335
+      text: Training dataset (Zenodo)
+    - url: https://github.com/CEMRG-publications/Strocchi_2023_PLoSCompBio
+      text: Code
+    

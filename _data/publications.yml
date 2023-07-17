@@ -1,3 +1,11 @@
+- title: "Cell to whole organ global sensitivity analysis on a four-chamber heart electromechanics model using Gaussian processes emulators"
+  first_author: "Marina Strocchi"
+  author_id: "Marina Strocchi"
+  authors: "Stefano Longobardi,Christoph M. Augustin,Matthias A. F. Gsell,Argyrios Petras,Christopher A. Rinaldi,Edward J. Vigmond,Gernot Plank,Chris J. Oates,Richard D. Wilkinson,Steven A. Niederer"
+  journal: "PLoS Computational Biology"
+  year: "2023"
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011257
+
 - title: "Additional coils mitigate elevated defibrillation threshold in right-sided implantable cardioverter defibrillator generator placement: a simulation study"
   first_author: "Shuang Qian"
   author_id: "Shuang Qian"
