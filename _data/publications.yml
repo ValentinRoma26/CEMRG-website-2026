@@ -1,3 +1,19 @@
+- title: "Computational Modelling Enabling In Silico Trials for Cardiac Physiologic Pacing"
+  first_author: "Marina Strocchi"
+  author_id: "Marina Strocchi"
+  authors: "Nadeev Wijesuriya, Vishal Mehta, Felicity de Vere, Christopher A. Rinaldi & Steven A. Niederer"
+  journal: " Journal of Cardiovascular Translational Research"
+  year: "2023"
+  url: https://link.springer.com/article/10.1007/s12265-023-10453-y
+
+- title: "A systematic review of cardiac in-silico clinical trials"
+  first_author: "Cristobal Rodero"
+  author_id: "Cristobal Rodero"
+  authors: "Tiffany M G Baptiste, Rosie K Barrows, Hamed Keramati, Charles P Sillett, Marina Strocchi, Pablo Lamata and Steven A Niederer"
+  journal: "Progress in Biomedical Engineering"
+  year: "2023"
+  url: https://iopscience.iop.org/article/10.1088/2516-1091/acdc71
+
 - title: "Cell to whole organ global sensitivity analysis on a four-chamber heart electromechanics model using Gaussian processes emulators"
   first_author: "Marina Strocchi"
   author_id: "Marina Strocchi"
