@@ -1,6 +1,6 @@
 # Site settings
 title: CEMRG
-email: steven.niederer@imperial.ac.uk  
+email: s.niederer@imperial.ac.uk  
 description: > # this means to ignore newlines until "baseurl:"
   Cardiac Electromechanics Research Group
 # url: "http://cemrg.co.uk" # the base hostname & protocol for your site
