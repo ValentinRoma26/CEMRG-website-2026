@@ -1,3 +1,19 @@
+- title: "Two-Stage Self-Supervised Contrastive Learning Aided Transformer for Real-Time Medical Image Segmentation"
+  first_author: "Abdul Qayyum"
+  author_id: "Abdul Qayyum"
+  authors: "Imran Razzak, Moona Mazher, Tariq Khan, Weiping Ding & Steven Niederer"
+  journal: "PLoS ONE"
+  year: "2023"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295789
+
+- title: "Using Gaussian process for velocity reconstruction after coronary stenosis applicable in positron emission particle tracking: An in-silico study"
+  first_author: "Hamed Keramati"
+  author_id: "Hamed Keramati"
+  authors: "Adelaide de Vecchi, Ronak Rajani & Steven A. Niederer"
+  journal: "PLoS ONE"
+  year: "2023"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295789
+
 - title: "A Semi-automatic Pipeline for Generation of Large Cohorts of Four-Chamber Heart Meshes"
   first_author: "Marina Strocchi"
   author_id: "Marina Strocchi"
