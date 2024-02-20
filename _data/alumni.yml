@@ -1,3 +1,16 @@
+
+- avatar: /images/members/hassan_zaidi.png
+  name: Hassan Zaidi
+  position: 
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/hassan-zaidi(e74a9ef2-590f-4e0e-a6da-9ff9f1c5c719).html
+      icon: quote-right 
+
+  desc:
+    Hassan graduated as an applied mathematician from The University of Nottingham, going on to complete an MSc in Applied Statistics with Operational Research and a PGCE in mathematics. His background has seen him work in various fields&#58; Nottinghamshire police, teaching, research, start-ups and the NHS. </p>
+    
+    <p>Hassan’s PhD project was based on the understanding that susceptibility to cardiac arrhythmias represents a highly complex system with intrinsic dependence on pathological structural and functional cardiac properties. Current guidelines suggest the use of a compromised LV ejection fraction (LVEF) to guide ICD implantation; however, only a third of SCD cases exhibit low LVEF. Functional biomarkers (from ECG recordings) and structural biomarkers (from MR imaging) have been independently correlated with arrhythmia risk, however, they have yet to demonstrate sufficient power to alter current clinical practice. Therefore, Hassan’s hypothesis was that a risk prediction model which combines both structural and functional features, augmented by structure-function simulation-based features, will significantly enhance risk stratification for ICD requirement. He completed his PhD on February 2024.</p>
+
 - avatar: /images/members/hamed_keramati.png
   name: Hamed Keramati
   position: 
