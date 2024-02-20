@@ -104,29 +104,6 @@
     completion of her PhD in 2021, she continued in CEMRG for a postdoctoral position funded by the British Heart 
     Foundation.
 
-- avatar: /images/members/hamed_keramati.png
-  name: Hamed Keramati
-  position: 
-  socials:
-    - link: https://scholar.google.com.my/citations?user=aNThsN8AAAAJ&hl=en
-      icon: google
-  desc:
-    Hamed Keramati received his master's degree in Mechanical Engineering from 
-    Nanyang Technological University (NTU), Singapore, with a thesis titled 
-    "Design and development of MEMS rotary fans". Subsequently, he worked as a 
-    Research Associate at NTU on numerical simulation of the blood flow in the 
-    aorta. Before starting his PhD study, as a Fluid Dynamics Engineer at 
-    Dyson, he performed numerical and experimental analyses of cyclonic 
-    separation. Hamed later started his PhD at the National University of 
-    Singapore (NUS) and worked on his thesis titled "An Investigation of the 
-    Blood Flow and the Vessel Displacement in the Aortic Dissection". His PhD 
-    research focused on the fluid-structure interaction simulation and Monte 
-    Carlo simulation of a reduced-order model of a dissected aorta. He 
-    successfully defended his thesis and joined CEMRG in 2021 as a Research 
-    Associate. Hamed currently works on modelling the blood flow in the heart 
-    and particle tracking to optimise the design and calibration of the 
-    positron emission particle tracking (PEPT) imaging for the cardiac blood flow.
-
 
 - avatar: /images/members/cristobal_rodero.png
   name: Cristobal Rodero
@@ -293,3 +270,28 @@
     involves MRI image-based modelling of the mechanical and structural function 
     of the cardiovascular system under different pathologies, including alcoholic 
     cardiomyopathy.</p>
+
+- avatar: /images/members/samaneh_lashkarinia.jpeg
+  name: Samaneh Lashkarinia
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=giHgul8AAAAJ&hl=en
+      icon: google
+    - link: https://www.imperial.ac.uk/people/s.lashkarinia
+      icon: quote-right
+  desc:
+    Samaneh Lashkarinia's research interests lie in Computational Biomechanics and Mechanobiology. She earned her PhD from the Mechanical Engineering department at Koc University in Turkey in August 2020. Her thesis focused on the computational growth and remodelling of heart vessels, as well as virtual surgical planning for congenital heart defects, aiding surgeons in selecting the most effective surgical option. Samaneh received the prestigious Newton International Fellowships 2020 award to support her post-doctoral fellowship in the Bioengineering department at Imperial College London in 2020. During her fellowship, she developed computational techniques to understand the Biomechanics of diseased embryonic hearts and identify the Mechanobiological pathways of resulting malformations, aiding in the diagnosis and prevention of heart defects before birth. </p>
+    
+    <p> Samaneh joined CEMRG in September 2023. She works on computational modelling of atrial fibrillation patients treated with cardiac resynchronization therapy to compare the effects of atrioventricular node ablation and atrial fibrillation ablation on echocardiographic and symptomatic outcomes in patients with CRT and suboptimal biventricular pacing.
+
+- avatar: /images/members/rosie_barrows.jpeg
+  name: Rosie Barrows
+  position: 
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/rosie-barrows
+      icon: quote-right
+  desc:
+    Rosie graduated from the University of Oxford in 2021 with an integrated master's degree in Engineering Science. For her final year project, she completed both experimental and simulation-based research into the effect of surface roughness on thermal propulsion system efficiency, working with Professor Felix Leach in the Thermal Propulsion Systems Research Group. </p>
+    
+    <p> Having chosen papers on Health Informatics and Biomechanics in her final year, she decided to join CEMRG in October 2021 to pursue her interest in the mechanics of the heart. Rosie's PhD focuses on using four chamber models to investigate the effects of atrial fibrillation (AF) on ventricular output. By considering the individual and synergistic effects of AF, this research will compare different treatment strategies for AF by performing electromechanical simulations on a cohort of patient-specific meshes.
+
