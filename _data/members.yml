@@ -69,9 +69,9 @@
     problems and data assimilation techniques (reverse engineering). His current
      research interests focus on the development of clinically tractable methods 
      to build personalised computational models from clinical data (MRI, 
-     Electrograms) and on the quantification of the model uncertainty, with a 
-     particular interest in predictive performance. His research aims in 
-     developing new tools to improve the treatment of cardiac arrhythmias.
+     electrograms) and on the quantification of the model uncertainty, with a 
+     particular interest in predictive performance. His research aims to 
+     develop new tools to improve the treatment of cardiac arrhythmias.
 
 - avatar: /images/members/JoseA.jpg
   name : José Alonso Solís-Lemus
@@ -114,18 +114,16 @@
     - link: https://kclpure.kcl.ac.uk/portal/en/persons/cristobal-rodero(fb7cc81b-de51-41b4-b672-af71d417ab80).html
       icon: quote-right 
   desc:
-    Cristobal Rodero received his bachelor's degree in Mathematics by the 
-    Universitat de València, Spain in 2016. Cristobal coursed a MSc of Research 
-    in Mathematics shared by Universitat de València and by Universitat 
-    Politècnica de València. At the same time, he went through another MSc in 
+    Cristobal Rodero received his bachelor's degree in Mathematics from the 
+    Universitat de València, Spain in 2016. Cristobal completed a MSc of Research 
+    in Mathematics jointly awarded by Universitat de València and Universitat 
+    Politècnica de València. At the same time, he completed a second MSc in 
     Computational Mathematics by Universitat Jaume I in Castellón. </p>
     
     <p>Cristobal started his PhD in 2017 in Biomedical Engineering, both in 
-    CEMRG and in Cardiac Modelling and Imaging Biomarkers group, focused on 
-    studying shape and function in the heart and how the interact with each
-    other. He also worked on calibration of models using emulators. In 
-    February 2022 he started a position at CEMRG as research assistant to
-    study cardiac remodelling in longitudinal studies.
+    CEMRG and in CMIB (Cardiac Modelling and Imaging Biomarkers) group, supervised by Profs Steven Niederer and Pablo Lamata. His PhD focussed on 
+    studying shape and function in the heart and how they interact using simulations. He also worked on calibration of models using emulators. In 
+    February 2022 he started a position at CEMRG as a research assistant studying cardiac remodelling in longitudinal studies.
 
 - avatar: /images/members/Adelisa.jpg
   name: Adelisa Avezzù
