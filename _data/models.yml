@@ -43,6 +43,16 @@
     - url: https://bitbucket.org/vgurev/mechbench/src/master/
       text: Bitbucket
 
+- title: "A Biophysical Systems Approach to Identifying the Pathways of Acute and Chronic Doxorubicin Mitochondrial Cardiotoxicity"
+  citation: "de Oliveira BL, Niederer S. A biophysical systems approach to identifying the pathways of acute and chronic doxorubicin mitochondrial cardiotoxicity. PLoS Computational Biology. 2016 Nov 21;12(11):e1005214."
+  description: The clinical use of the anthracycline doxorubicin is limited by its cardiotoxicity which is associated with mitochondrial dysfunction. Redox cycling, mitochondrial DNA damage and electron transport chain inhibition have been identified as potential mechanisms of toxicity. However, the relative roles of each of these proposed mechanisms are still not fully understood. The purpose of this study is to identify which of these pathways independently or in combination are responsible for doxorubicin toxicity. A state of the art mathematical model of the mitochondria including the citric acid cycle, electron transport chain and ROS production and scavenging systems was extended by incorporating a novel representation for mitochondrial DNA damage and repair. In silico experiments were performed to quantify the contributions of each of the toxicity mechanisms to mitochondrial dysfunction during the acute and chronic stages of toxicity. Simulations predict that redox cycling has a minor role in doxorubicin cardiotoxicity. Electron transport chain inhibition is the main pathway for acute toxicity for supratherapeutic doses, being lethal at mitochondrial concentrations higher than 200μM. Direct mitochondrial DNA damage is the principal pathway of chronic cardiotoxicity for therapeutic doses, leading to a progressive and irreversible long term mitochondrial dysfunction.
+  links:
+    - url: https://doi.org/10.1371/journal.pcbi.1005214
+      text: "PLoS Computational Biology"
+    - url: /model_files/Mito\ model.tar.gz
+      text: Matlab
+  
+
 - title: "A model of cardiac contraction based on novel measurements of tension development in human cardiomyocytes."
   citation: "S Land, SJ Park-Holohan, NP Smith, CG Dos Remedios, JC Kentish, SA Niederer. JMCC, 2017"
   description: A model of human cardiac contraction intended for multi-scale modelling applications. Download includes relevant experimental data, and C++ code is available on request.
