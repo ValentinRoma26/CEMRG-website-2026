@@ -49,7 +49,7 @@
   links:
     - url: https://doi.org/10.1371/journal.pcbi.1005214
       text: "PLoS Computational Biology"
-    - url: /model_files/Mito\ model.tar.gz
+    - url: /model_files/Mito_model.tar.gz
       text: Matlab
   
 
