@@ -283,3 +283,15 @@
     
     <p> Having chosen papers on Health Informatics and Biomechanics in her final year, she decided to join CEMRG in October 2021 to pursue her interest in the mechanics of the heart. Rosie's PhD focuses on using four chamber models to investigate the effects of atrial fibrillation (AF) on ventricular output. By considering the individual and synergistic effects of AF, this research will compare different treatment strategies for AF by performing electromechanical simulations on a cohort of patient-specific meshes.
 
+- avatar: /images/members/Photo_Arthur_Lefebvre.png
+  name: Arthur Lefebvre
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=j17VyUQAAAAJ&hl=en
+      icon: google
+    - link: https://ai4health.io/supervisors/
+      icon: quote-right
+  desc:
+    Arthur holds both a Bachelor's and a Master's degree in Electrical Engineering, specializing in Telecommunications and Artificial Intelligence from the Université de Mons (UMONS). He further completed a Master of Science in Bioengineering with a Medical Specialization at the University of California, San Diego (UCSD), as a recipient of the BAEF fellowship. His academic work has centered on the intersection of AI and cardiovascular imaging. Arthur previously served as a Research Assistant in the Trayanova Lab at Johns Hopkins University, where he contributed to segmentation projects focused on atrial structures, ventricles, and the quantification of scar and fibrosis in late gadolinium enhancement (LGE) MRI scans.</p>
+
+    <p>In 2024, he joined CEMRG as PhD student in AI and Machine Learning within the AI4Health program at Imperial College London. His research centers on developing Trustworthy Digital Twins for Healthcare, specifically assessing the credibility of patient-specific cardiac simulation models through advanced computational modeling and AI. In collaboration with the FDA and industry partners, Arthur's work aims to bridge research with clinical application, driving solutions that are FDA-ready.
