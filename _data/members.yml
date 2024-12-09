@@ -295,3 +295,12 @@
     Arthur holds both a Bachelor's and a Master's degree in Electrical Engineering, specializing in Telecommunications and Artificial Intelligence from the Université de Mons (UMONS). He further completed a Master of Science in Bioengineering with a Medical Specialization at the University of California, San Diego (UCSD), as a recipient of the BAEF fellowship. His academic work has centered on the intersection of AI and cardiovascular imaging. Arthur previously served as a Research Assistant in the Trayanova Lab at Johns Hopkins University, where he contributed to segmentation projects focused on atrial structures, ventricles, and the quantification of scar and fibrosis in late gadolinium enhancement (LGE) MRI scans.</p>
 
     <p>In 2024, he joined CEMRG as PhD student in AI and Machine Learning within the AI4Health program at Imperial College London. His research centers on developing Trustworthy Digital Twins for Healthcare, specifically assessing the credibility of patient-specific cardiac simulation models through advanced computational modeling and AI. In collaboration with the FDA and industry partners, Arthur's work aims to bridge research with clinical application, driving solutions that are FDA-ready.
+
+- avatar: /images/members/Zhong_Wei.jpg
+  name: Wei Zhong 
+  position: 
+  socials:
+  desc:
+    Wei Zhong joined CEMRG in October 2024 as a PhD student (4-year BHF-DTP). Before that, Wei completed a Bachelor's degree in Mathematics and Statistical Science at University College London and later pursued a Master's degree in Applied Computational Science and Engineering at Imperial College London. Prior to his Master's studies, Wei worked as a Research Assistant at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, in the Institute of Medical Engineering (2021–2022). His experience spans computational mathematics, numerical modelling, data science, machine learning, and statistical analysis, with a keen interest in translational medicine and its applications in healthcare.</p>.
+    
+    <p>Wei’s research focuses on creating sex-specific cardiac digital twins to model multi-scale differences in heart function and disease presentation influenced by sex.
