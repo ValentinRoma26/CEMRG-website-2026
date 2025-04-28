@@ -1,7 +1,24 @@
+- title: "Stochastic virtual heart model predictions"
+  first_author: "Martin J. Bishop"
+  author_id: "Martin Bishop"
+  authors: "Gernot Plank"
+  journal: "Nature Cardiovascular Research"
+  year: "2025"
+  url: https://doi.org/10.1038/s44161-025-00641-1
+
+
+- title: "Reconstructed scar morphology in patient-specific computational heart models has limited impact on the identification of ablation targets through in-silico pace mapping"
+  first_author: "Fernando O. Campos"
+  author_id: "Fernando Campos"
+  authors: "Pranav Bhagirath, Sofia Monaci, Zhong Chen, John Whitaker, Gernot Plank, Christopher Aldo Rinaldi, Martin J. Bishop"
+  journal: "Computers in Biology and Medicine"
+  year: "2025"
+  url: https://doi.org/10.1016/j.compbiomed.2025.110229
+
 - title: "Striking the balance: Complexity, simplicity, and credibility in mathematical biology"
   first_author: "Cristobal Rodero"
   author_id: "Cristobal Rodero"
-  authors: "Cristobal Rodero, Steven A Niederer"
+  authors: "Steven A Niederer"
   journal: "PNAS"
   year: "2025"
   url: https://doi.org/10.1073/pnas.2504067122
