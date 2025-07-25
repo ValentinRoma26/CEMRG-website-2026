@@ -160,4 +160,16 @@
       text: Training dataset (Zenodo)
     - url: https://github.com/CEMRG-publications/Strocchi_2023_PLoSCompBio
       text: Code
+
+
+- title: "Cardiac digital twins at scale from MRI: Open tools and representative models from ~ 55000 UK Biobank participants - Segmentation Networks and Representative Meshes from UK Biobank"
+  citation: "Ugurlu D, Qian S, Fairweather E, Mauger C, Ruijsink B, Toso LD, Deng Y, Strocchi M, Razavi R, Young A, Lamata P. Cardiac digital twins at scale from MRI: Open tools and representative models from~ 55000 UK Biobank participants. PLoS One. 2025 Jul 15;20(7):e0327158."
+  description: We present a database of representative left and right ventricular meshes constructed from patient-specific models based on a large cohort of ~55k participants from UK Biobank.
+  links:
+    - url: https://doi.org/10.1371/journal.pone.0327158
+      text: Paper
+    - url: https://zenodo.org/records/15649643
+      text: Dataset (Zenodo)
+    - url: https://github.com/CEMRG-publications/Ugurlu_2025_PLoS_One
+      text: Code
     
