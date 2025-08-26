@@ -280,3 +280,34 @@
     Wei Zhong joined CEMRG in October 2024 as a PhD student (4-year BHF-DTP). Before that, Wei completed a Bachelor's degree in Mathematics and Statistical Science at University College London and later pursued a Master's degree in Applied Computational Science and Engineering at Imperial College London. Prior to his Master's studies, Wei worked as a Research Assistant at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, in the Institute of Medical Engineering (2021–2022). His experience spans computational mathematics, numerical modelling, data science, machine learning, and statistical analysis, with a keen interest in translational medicine and its applications in healthcare.</p>.
     
     <p>Wei’s research focuses on creating sex-specific cardiac digital twins to model multi-scale differences in heart function and disease presentation influenced by sex.
+
+
+- avatar: /images/members/Devran_Ugurlu_resized.png
+  name: Devran Ugurlu
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=x1HBnkgAAAAJ&hl=en
+      icon: google
+    - link: https://www.turing.ac.uk/people/devran-ugurlu
+      icon: quote-right
+  desc:
+    <p>Dr Devran Ugurlu received his bachelor's degree in Mathematics Engineering and master's degree in Computational Science and Engineering from Istanbul Technical University, Turkey. 
+    He received his PhD in Computer Science and Engineering from Sabanci University, Turkey.</p>
+    <p> His research mainly focuses on medical image analysis. For his PhD and his first postdoc project at Istanbul Technical University, he worked with automatic segmentation of fiber tracts from brain diffusion MRI. He moved to the UK in September 2020 and has been working as a postdoc with cardiac MRI images since. 
+    His current work involves automatically creating patient-specific biventricular and 4-chamber meshes to model the patient's heart anatomy using deep-learning methods.</p>
+
+
+- avatar: /images/members/Shambavi_Malik.png
+  name: Shambavi Malik
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=eFNdSsoAAAAJ&hl=en
+      icon: google
+    - link: https://www.imagingcdt.com/project/learning-physics-and-physiology-based-cardiac-activation-imaging/
+      icon: quote-right
+  desc:
+    <p>Shambavi graduated in 2023 with an Integrated Dual BTech–MTech in Biomedical Engineering from the Indian Institute of Technology (BHU) Varanasi. 
+    During her studies, she completed research internships in the UK, Canada, and Germany, focusing on structural and biophysical modeling of the heart. 
+    She is currently a PhD student at Imperial College London within the EPSRC Centre for Doctoral Training in Smart Medical Imaging. 
+    Her research centers on integrating multi-modal imaging and ECGI data to develop and calibrate patient-specific digital twins for 
+    investigating the electrophysiology of hypertrophic cardiomyopathy.</p>
