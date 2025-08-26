@@ -13,7 +13,7 @@ layout: default
   <div class="row">
     <table class="page-list">
       {% for page in site.pages %}
-      {% if page.category == 'software' %}
+      {% if page.category == 'software' and page.url != '/software/' %}
       <tr class="clickable-row" data-href="{{ page.path | prepend: '/' | prepend: baseurl }}">
         <td class="description">
           <h2><a href="{{ page.path | prepend: '/' | prepend: baseurl }}"> {{ page.title }} </a></h2>
