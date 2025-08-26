@@ -1,3 +1,13 @@
+- avatar: /images/members/Adelisa.jpg
+  name: Adelisa Avezzù
+  position: 
+  socials:
+    - link: https://kclpure.kcl.ac.uk/portal/en/persons/adelisa-avezzu(ffd31e3b-0175-4de4-b643-335f8029a143).html
+      icon: quote-right 
+  desc:
+    Adelisa Avezzù graduated in Mathematics at the University of Bologna with a thesis in algebraic geometry, then gained her Master of Science in Mathematics at the University of Trento with curriculum on modelling and simulations for biomedical applications. Her thesis centred on numerical modelling of the human cardiovascular system to simulate brain haemodynamics in the event of neurovascular diseases. She joined the CEMRG group in October 2018 as a King’s College PhD student.<p>Her PhD research focused on the impact of bile acids on foetal cardiac cells in order to investigate the mechanism which would cause foetal arrhythmia and stillbirth in intrahepatic cholestasis of pregnancy (ICP). Until 2025, she worked on the development of an electrophysiological model of the human foetal ventricular cardiomyocyte.</p>
+
+
 - avatar: /images/members/charles_sillett.png
   name: Charles Sillett
   position: 
@@ -12,7 +22,7 @@
     October 2020.</p>
     <p>Charles' PhD focused on using cardiac CT images to quantify cardiac function in the left atrium. He investigated the link between left atrial mechanics and incidents of heart failure and atrial fibrillation amongst 
     patients.</p>
-    After his PhD, Charles went to Stanford University as a Postdoctoral Scholar.
+    After his PhD, in 2025, Charles went to Stanford University as a Postdoctoral Scholar.
 
 
 - avatar: /images/members/hassan_zaidi.png
