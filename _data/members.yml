@@ -311,3 +311,17 @@
     She is currently a PhD student at Imperial College London within the EPSRC Centre for Doctoral Training in Smart Medical Imaging. 
     Her research centers on integrating multi-modal imaging and ECGI data to develop and calibrate patient-specific digital twins for 
     investigating the electrophysiology of hypertrophic cardiomyopathy.</p>
+
+- avatar: /images/members/Hayden_Isaac.png
+  name: Isaac Hayden
+  position: 
+  socials:
+    - link: https://statml.io/students/isaac-hayden/
+      icon: quote-right
+  desc:
+    <p>Isaac completed an integrated Master's in Mathematics at Durham University in 2023. While specialising in Riemannian geometry and functional analysis,
+     he also explored the use of neural networks to solve differential equations in his dissertation project. He then worked as a pharmacometric data 
+     scientist in a HealthTech start-up delivering precision chemotherapy dosing. There he developed Bayesian pharmacokinetic models to describe drug 
+     exposure in special patient populations, and investigated further extensions using machine learning. In October 2024 he joined CEMRG as a PhD student 
+     within the Statistics and Machine Learning Centre for Doctoral Training programme at Imperial College London. His research focuses on methods for 
+     multifidelity modelling and experimental design to improve translation between animal and human experiments for cardiac safety assessment.</p>
