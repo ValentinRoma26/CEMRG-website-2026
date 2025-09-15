@@ -82,27 +82,7 @@
   desc:
     José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. Moving his focus "closer to the patient", José Alonso joined CEMRG early in 2019 as a Post-Doctoral Research Associate, where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images.
 
-- avatar: /images/members/Marina-S.JPG
-  name: Marina Strocchi
-  position: 
-  socials:
-    - link: https://scholar.google.co.uk/citations?user=IeY2uzcAAAAJ&hl=en
-      icon: google
-    - link: https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi(8a65760c-fd5c-4084-8749-25c5e59e7e7a).html
-      icon: quote-right 
-  desc:
-    Marina Strocchi received a bachelor's Degree in Mathematics at the University of Bologna, Italy, and a master degree
-    in Applied Mathematics at the University of Trento, Italy. For her master thesis, she worked with models for the 
-    simulation of arterial blood flow. She also received a Master of Research in Imaging Science at King's College 
-    London.</p>
-    
-    <p>During her PhD at King's College London in 2017, Marina has been working with three-dimensional models for 
-    cardiac electrical activation and mechanical contraction. The aim of her PhD is to develop a framework that 
-    simulates physiological motion of atria and ventricles together with pressure-volume atrial and ventricular 
-    dynamics. This framework was then be applied to a virtual cohort of heart failure models to investigate how 
-    pressure dynamics in the major arteries change in response to cardiac resynchronization therapy. After the 
-    completion of her PhD in 2021, she continued in CEMRG for a postdoctoral position funded by the British Heart 
-    Foundation.
+
 
 
 - avatar: /images/members/cristobal_rodero.png
