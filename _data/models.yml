@@ -172,4 +172,14 @@
       text: Dataset (Zenodo)
     - url: https://github.com/CEMRG-publications/Ugurlu_2025_PLoS_One
       text: Code
+
+
+- title: "CARDIAC LENGTH-DEPENDENT ACTIVATION DRIVEN BY FORCE-DEPENDENT THICK-FILAMENT DYNAMICS"
+  citation: "Lewalle A, Milburn G, Campbell KS, Niederer SA. Cardiac length-dependent activation driven by force-dependent thick-filament dynamics. Biophysical Journal. 2024 Sep 17;123(18):2996-3009."
+  description: This study presents a model framework describing myocyte contraction dynamics that includes the effects of thick-filament regulation via the force-dependent crossbridge "off" state. The model builds upon the contraction model by Land et al. (2017) originating from this group.
+  links:
+    - url: https://www.cell.com/biophysj/fulltext/S0006-3495(24)00352-7
+      text: Paper
+    - url: https://github.com/CEMRG-publications/Lewalle_2025_BiophysJ
+      text: Code
     
