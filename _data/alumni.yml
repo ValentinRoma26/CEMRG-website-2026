@@ -1,3 +1,21 @@
+
+
+- avatar: /images/members/samaneh_lashkarinia.jpg
+  name: Samaneh Lashkarinia
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=giHgul8AAAAJ&hl=en
+      icon: google
+    - link: https://www.imperial.ac.uk/people/s.lashkarinia
+      icon: quote-right
+  desc:
+    Samaneh Lashkarinia's research interests lie in Computational Biomechanics and Mechanobiology. She earned her PhD from the Mechanical Engineering department at Koc University in Turkey in August 2020. Her thesis focused on the computational growth and remodelling of heart vessels, as well as virtual surgical planning for congenital heart defects, aiding surgeons in selecting the most effective surgical option. Samaneh received the prestigious Newton International Fellowships 2020 award to support her post-doctoral fellowship in the Bioengineering department at Imperial College London in 2020. During her fellowship, she developed computational techniques to understand the Biomechanics of diseased embryonic hearts and identify the Mechanobiological pathways of resulting malformations, aiding in the diagnosis and prevention of heart defects before birth. </p>
+    
+    <p> Samaneh joined CEMRG in September 2023. Until 2025 she worked on computational modelling of atrial fibrillation patients treated with cardiac resynchronization therapy to compare the effects of 
+    atrioventricular node ablation and atrial fibrillation ablation on echocardiographic and symptomatic outcomes in patients with CRT and suboptimal biventricular pacing.</p>
+
+
+
 - avatar: /images/members/Marina-S.JPG
   name: Marina Strocchi
   position: 

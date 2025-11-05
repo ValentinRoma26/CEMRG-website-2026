@@ -186,20 +186,6 @@
 
 
 
-
-- avatar: /images/members/samaneh_lashkarinia.jpg
-  name: Samaneh Lashkarinia
-  position: 
-  socials:
-    - link: https://scholar.google.com/citations?user=giHgul8AAAAJ&hl=en
-      icon: google
-    - link: https://www.imperial.ac.uk/people/s.lashkarinia
-      icon: quote-right
-  desc:
-    Samaneh Lashkarinia's research interests lie in Computational Biomechanics and Mechanobiology. She earned her PhD from the Mechanical Engineering department at Koc University in Turkey in August 2020. Her thesis focused on the computational growth and remodelling of heart vessels, as well as virtual surgical planning for congenital heart defects, aiding surgeons in selecting the most effective surgical option. Samaneh received the prestigious Newton International Fellowships 2020 award to support her post-doctoral fellowship in the Bioengineering department at Imperial College London in 2020. During her fellowship, she developed computational techniques to understand the Biomechanics of diseased embryonic hearts and identify the Mechanobiological pathways of resulting malformations, aiding in the diagnosis and prevention of heart defects before birth. </p>
-    
-    <p> Samaneh joined CEMRG in September 2023. She works on computational modelling of atrial fibrillation patients treated with cardiac resynchronization therapy to compare the effects of atrioventricular node ablation and atrial fibrillation ablation on echocardiographic and symptomatic outcomes in patients with CRT and suboptimal biventricular pacing.
-
 - avatar: /images/members/rosie_barrows.jpeg
   name: Rosie Barrows
   position: 
@@ -277,3 +263,22 @@
      exposure in special patient populations, and investigated further extensions using machine learning. In October 2024 he joined CEMRG as a PhD student 
      within the Statistics and Machine Learning Centre for Doctoral Training programme at Imperial College London. His research focuses on methods for 
      multifidelity modelling and experimental design to improve translation between animal and human experiments for cardiac safety assessment.</p>
+
+
+
+- avatar: /images/members/Bei.jpeg
+  name: Bei Zhou
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=4IkmP-YAAAAJ&hl=en&oi=ao
+      icon: google
+  desc:
+    <p>Dr Bei Zhou received his Master's degree in Computer Science from the University of Sydney, Australia, and 
+    subsequently completed his PhD in Machine Learning and Discrete Mathematics at Queen Mary University of London, where his 
+    work contributed to breaking several longstanding world records on a complex combinatorial optimisation problem that 
+    had remained open for more than 25 years.
+    <p>He joined Imperial College London as a Research Associate in 2024. His current research focuses on 
+    computational modelling and neural operators for simulations in cardiac digital twins. He is also a senior 
+    software developer and the creator of the Condorcet Domain Library (CDL) and TorchCor.
+
+
