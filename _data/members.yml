@@ -281,4 +281,36 @@
     computational modelling and neural operators for simulations in cardiac digital twins. He is also a senior 
     software developer and the creator of the Condorcet Domain Library (CDL) and TorchCor.
 
+- avatar: /images/members/Sheng-Ya.jpg
+  name: Sheng-Ya Wang
+  position: 
+  socials:
+    - link: 
+      icon: quote-right
+  desc:
+    <p>Sheng-Ya Wang graduated from the University of Auckland with a Bachelor of Engineering (Honours) and a Bachelor of 
+    Science degree majoring in Biomedical Engineering, Chemistry, and Statistics. Her Honours project focused on optimising 
+    a MATLAB workflow to fit a finite element model that approximates 3D strains throughout the left ventricle from DENSE 
+    image-derived displacements. She has research experience implementing and refining convolutional neural networks for 
+    supervised keypoint detection on spinopelvic radiographs, as well as developing image processing algorithms for laser 
+    speckle imaging to enhance image registration accuracy.
+    <p>Sheng-Ya joined CEMRG in 2025 as a PhD student, developing and calibrating mathematical models of the cardiopulmonary 
+    system. Her work aims to investigate the dynamic interactions between cardiovascular and respiratory control mechanisms 
+    to predict physiological responses across various states, such as exercise.
+
+
+- avatar: /images/members/Mojiba.jpg
+  name: Mojiba Khanum
+  position: 
+  socials:
+    - link: https://cvd-net.com/about/project-team
+      icon: quote-right
+  desc:
+    <p>Mojiba Khanum received her Bachelor of Science in Biomedical Sciences from University College London in 2019. She has 
+    worked at Imperial College London since 2021, joining the CEMRG team in November 2024 as Project Manager for CVD Net 
+    (Networks of Cardiovascular Digital Twins) which is an EPSRC funded project looking to create cardiac digital twins for 
+    the monitoring and treatment of Pulmonary Hypertension.
+
+ 
+
 
