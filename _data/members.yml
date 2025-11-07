@@ -311,6 +311,25 @@
     (Networks of Cardiovascular Digital Twins) which is an EPSRC funded project looking to create cardiac digital twins for 
     the monitoring and treatment of Pulmonary Hypertension.
 
+- avatar: /images/members/Valentin.png
+  name: Valentin Romanov
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?hl=en&user=lwzB_y4AAAAJ
+      icon: google
+  desc:
+    <p>Dr Valentin Romanov received his PhD in Mechanical Engineering from the University of Utah, USA. His main research interest 
+    is in automating and building frameworks around Large Language Models for applications in computational modeling. His doctoral 
+    work focused on developing microfluidic platforms for creating size-tunable vesicles, along with fluid and thermal-multiphysics 
+    simulations. Following his PhD, his research at the Victor Chang Cardiac Research Institute, Sydney, initially focused on 
+    mechanobiology, cell biophysics, and modelling. During this postdoctoral work, he refocused his research towards Large Language 
+    Models for data science and modeling applications.</p> 
+    
+    <p>He joined Imperial College London as a Research Associate in 2025. His current research focuses on developing LLM-based 
+    approaches to automate parameter extraction from scientific literature for informing the creation of computational models in 
+    cardiac digital twins.
+
+
  
 
 
