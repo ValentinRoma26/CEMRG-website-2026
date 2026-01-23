@@ -330,6 +330,25 @@
     cardiac digital twins.
 
 
+
+- avatar: /images/members/test.png
+  name: Edward Ashton
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?hl=en&user=lwzB_y4AAAAJ
+      icon: google
+  desc:
+    <p>Edward completed his integrated master’s degree in 2021 at the University of Oxford. Within his master’s project, he 
+    developed electrospun nanocomposite scaffolds for drug-release applications, combining nanoscale imaging with in-silico 
+    optimisation methods.</p>
+    <p>Pursuing his interest in computational modelling, he worked as an analytical research engineer, applying finite element 
+    and computational fluid dynamics tools to medical device development. This work demonstrated how digital twins can accelerate 
+    and de-risk innovation within regulatory frameworks.</p>
+    <p> Joining CEMRG in 2025, Edward now develops multiscale, whole-heart electro-mechanical models to improve treatment for 
+    patients with pulmonary arterial hypertension. His ambition is to integrate in-silico tools with uncertainty quantification 
+    methods to support clinical decision making and improve post operative outcomes.
+
+
  
 
 
