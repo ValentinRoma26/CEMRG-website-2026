@@ -235,8 +235,8 @@
     His current work involves automatically creating patient-specific biventricular and 4-chamber meshes to model the patient's heart anatomy using deep-learning methods.</p>
 
 
-- avatar: /images/members/Shambavi_Malik.jpg
-  name: Shambavi Malik
+- avatar: /images/members/Shambhavi_Malik.jpg
+  name: Shambhavi Malik
   position: 
   socials:
     - link: https://scholar.google.com/citations?user=eFNdSsoAAAAJ&hl=en
@@ -244,7 +244,7 @@
     - link: https://www.imagingcdt.com/project/learning-physics-and-physiology-based-cardiac-activation-imaging/
       icon: quote-right
   desc:
-    <p>Shambavi graduated in 2023 with an Integrated Dual BTech–MTech in Biomedical Engineering from the Indian Institute of Technology (BHU) Varanasi. 
+    <p>Shambhavi graduated in 2023 with an Integrated Dual BTech–MTech in Biomedical Engineering from the Indian Institute of Technology (BHU) Varanasi. 
     During her studies, she completed research internships in the UK, Canada, and Germany, focusing on structural and biophysical modeling of the heart. 
     She is currently a PhD student at Imperial College London within the EPSRC Centre for Doctoral Training in Smart Medical Imaging. 
     Her research centers on integrating multi-modal imaging and ECGI data to develop and calibrate patient-specific digital twins for 
