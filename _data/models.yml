@@ -182,4 +182,16 @@
       text: Paper
     - url: https://github.com/CEMRG-publications/Lewalle_2025_BiophysJ
       text: Code
+
+
+- title: "Sex- and Disease-Stratified Patient-Specific Four-Chamber Heart Models from Clinical CT"
+  citation: "Solís-Lemus, J. A., Barrows, R. K., Rodero, C., Strocchi, M., Montarello, N., Lahoti, N., ... & Niederer, S. A. (2026). Assessing the importance of sex and disease-specific anatomy in electrophysiology and mechanical simulations with a newly developed public virtual cohort of four-chamber heart models. PLOS Computational Biology, 22(6), e1014325."
+  description: Fifty (50) patient-specific four-chamber heart models derived from clinical CT scans, balanced by sex (50% female) and near-balanced by condition. Each model provides anatomically detailed tetrahedral meshes with fibre orientations plus parameter files for benchmark electrophysiology and passive inflation simulations.
+  links:
+    - url: 
+      text: Paper
+    - url: https://zenodo.org/records/19351401
+      text: Dataset (Zenodo)
+    - url: https://github.com/OpenHeartDevelopers/cemrg-heartbuilder
+      text: Code
     
