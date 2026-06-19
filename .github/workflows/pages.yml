@@ -1,0 +1,64 @@
+name: Deploy CEMRG site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment, don't cancel in-progress runs
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        # Match the Ruby the site was originally built with on GitLab CI (ruby:2.7)
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler-cache: true
+
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Point bare 'baseurl' refs at site.baseurl (build-time only)
+        # Templates reference assets as `{{ "/css/x" | prepend: baseurl }}` using a
+        # bare (empty) `baseurl` var, which 404s on a project subpath. Rewriting to
+        # `site.baseurl` lets the --baseurl below prefix every asset correctly.
+        # This only touches the CI checkout, never the committed source.
+        run: |
+          grep -rlZ --include='*.html' 'prepend: baseurl' . \
+            | xargs -0 -r sed -i 's/prepend: baseurl/prepend: site.baseurl/g'
+
+      - name: Build with Jekyll
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        # Defaults to uploading ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
